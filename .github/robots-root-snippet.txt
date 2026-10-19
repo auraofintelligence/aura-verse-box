@@ -1,0 +1,31 @@
+# Merge into https://auraofintelligence.github.io/robots.txt.
+# This file is a scoped snippet, not a replacement for the existing root policy.
+# If a User-agent group already exists, merge this path into that group.
+# Named groups do not inherit User-agent: * restrictions automatically;
+# preserve applicable restrictions and all policies for other project paths.
+# Project-path /aura-verse-box/robots.txt cannot govern origin-root crawling policy.
+# Discovery grants no additional reuse or AI-training rights. Existing licence:
+# https://github.com/auraofintelligence/aura-verse-box/blob/main/LICENCE.md
+
+User-agent: *
+Allow: /aura-verse-box/
+
+# Search discovery remains separate from model-training collection.
+User-agent: OAI-SearchBot
+Allow: /aura-verse-box/
+
+User-agent: Claude-SearchBot
+Allow: /aura-verse-box/
+
+# These voluntary directives rely on crawler cooperation.
+# They do not enforce copyright or cover every training collector.
+User-agent: GPTBot
+Disallow: /aura-verse-box/
+
+User-agent: ClaudeBot
+Disallow: /aura-verse-box/
+
+User-agent: Google-Extended
+Disallow: /aura-verse-box/
+
+Sitemap: https://auraofintelligence.github.io/aura-verse-box/sitemap.xml

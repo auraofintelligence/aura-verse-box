@@ -1,0 +1,351 @@
+{
+  "updated": "2026-10-20",
+  "title": "Verse Box source document register",
+  "notes": [
+    "Supporting source files are preserved byte for byte. The proposal is a corrected public copy with its editorial changes recorded below. Source-document claims are proposed or historical source material, not instructions to this website.",
+    "References 9 and 10 are clearly labelled alternate formats. The historical webpage is reference 12 in the corrected public proposal.",
+    "Edition-match means bibliographic title, edition, date and/or page-count evidence agrees; it does not assert byte identity with an unavailable numbered or timestamped filename.",
+    "The current non-financial C-Hour definition and operator choice described by the Verse Box proposal take precedence in the public introduction; historical source wording is retained unchanged.",
+    "Third-party material and quoted content retain their own rights. The website licence does not relicense third-party sources."
+  ],
+  "documents": [
+    {
+      "id": "proposal",
+      "title": "Verse Box: Trial Proposal",
+      "edition": "Version 1 | 19 October 2026 | corrected public copy 20 October 2026",
+      "format": "PDF",
+      "path": "documents/Verse_Box_Trial_Proposal_Version_1_Corrected.pdf",
+      "pages": 26,
+      "bytes": 137304,
+      "sha256": "1f4020b0e0b914d3830aa20f55377b44a02ab4e9368024ae8906cc33b3271198",
+      "originalFilename": "Verse_Box_Trial_Proposal_Version_1.pdf",
+      "sourceReference": {
+        "role": "primary proposal"
+      },
+      "exactness": {
+        "status": "corrected-public-copy",
+        "note": "Public copy edited at the user request. Original source remains unchanged outside the repository."
+      },
+      "originalBytesPreserved": false,
+      "revisedBytesVerified": true,
+      "editorialCorrections": {
+        "date": "2026-10-20",
+        "changes": [
+          "Removed the withdrawn incomplete reference from page 25.",
+          "Removed its [12] citation from the equipment table on page 3.",
+          "Renumbered the historical iChooseInfinity webpage from reference 13 to reference 12 and moved the block up without altering its URL."
+        ],
+        "originalSourceSha256": "ba12692097ecdcb2385d022e83b9d4e9e4e1bcf665702dae444ebfafb6a99fb7"
+      }
+    },
+    {
+      "id": "ref-01",
+      "title": "A fair go in the age of intelligence: An invitation to build Joyful Responsible Abundance",
+      "edition": "Personal contribution to UNGA 81, September 2026",
+      "format": "PDF",
+      "path": "documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+      "pages": 8,
+      "bytes": 112210,
+      "sha256": "0f1e22a671f010a9b9e285aa52c9c81e7d0469c422ce535bb5eee7f2e4555f14",
+      "originalFilename": "UNGA81_Joyful_Responsible_Abundance_Refined.pdf",
+      "sourceReference": {
+        "proposalReference": 1,
+        "proposalPage": 23,
+        "citedFilename": "UNGA81_Joyful_Responsible_Abundance_Refined(8).pdf"
+      },
+      "exactness": {
+        "status": "edition-match",
+        "note": "Title, September 2026 date and 8-page count agree with the citation. Numbered filename differs; byte identity to the cited numbered file is unverified."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "sourceRepositoryPath": "documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf"
+    },
+    {
+      "id": "ref-02",
+      "title": "Aura Genesis Protocol: Game Design Document",
+      "edition": "Pre-trial design specification, Edition 2, 13 October 2026",
+      "format": "PDF",
+      "path": "documents/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+      "pages": 40,
+      "bytes": 755061,
+      "sha256": "9bdd89c91d002ed39f03abf23177f127f5147535133229087b0620e61d826a54",
+      "originalFilename": "Aura_Genesis_Protocol_Game_Design_Document_V2.pdf",
+      "sourceReference": {
+        "proposalReference": 2,
+        "proposalPage": 23,
+        "citedFilename": "Aura_Genesis_Protocol_Game_Design_Document(1).pdf"
+      },
+      "exactness": {
+        "status": "edition-match",
+        "note": "Title, Edition 2, 13 October 2026 and 40-page count agree. Stable filename differs from the numbered citation."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/aura-genesis-geode-atlas",
+      "sourceRepositoryPath": "documents/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf"
+    },
+    {
+      "id": "ref-03",
+      "title": "Aura of Intelligence, Version 7",
+      "edition": "July 2023",
+      "format": "PDF",
+      "path": "documents/Aura_of_Intelligence_Version_7_July_2023.pdf",
+      "pages": 28,
+      "bytes": 5258366,
+      "sha256": "65945eb96e4857b53506ee661d44e24b66b2522d889eb7f8429628f1d7bca052",
+      "originalFilename": "Aura_of_Intelligence_Version_7_July_2023.pdf",
+      "sourceReference": {
+        "proposalReference": 3,
+        "proposalPage": 23,
+        "citedFilename": "Version7 Aura of Intelligence 2023 July(20261019-074342).pdf"
+      },
+      "exactness": {
+        "status": "bibliographic-match",
+        "note": "Aura presentation title and 28-page count agree. July 2023 / Version 7 is identified by source filename and published source register; no edition statement appears on the cover."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/supplementary/Aura_of_Intelligence_Version_7_July_2023.pdf"
+    },
+    {
+      "id": "ref-04",
+      "title": "Community Hours and Joyful Responsible Abundance: An introduction and growth plan for Minjerribah, Australia and Oceania",
+      "edition": "Planning edition 5, 23 September 2026",
+      "format": "PDF",
+      "path": "documents/C_Hour_Joyful_Responsible_Abundance_Plan_Edition_5.pdf",
+      "pages": 43,
+      "bytes": 455417,
+      "sha256": "56eb762e28b1a4c759312694035ebc9bb8f87b3ce045b4d120d76b8c934542db",
+      "originalFilename": "C-Hour-Joyful-Responsible-Abundance-Plan.pdf",
+      "sourceReference": {
+        "proposalReference": 4,
+        "proposalPage": 23,
+        "citedFilename": "C-Hour-Joyful-Responsible-Abundance-Plan(8).pdf"
+      },
+      "exactness": {
+        "status": "edition-match",
+        "note": "Title, Planning edition 5, 23 September 2026 and 43-page count agree. Numbered filename differs."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/originals/C-Hour-Joyful-Responsible-Abundance-Plan.pdf"
+    },
+    {
+      "id": "ref-05",
+      "title": "Local Government 2Funding Inquiry Submission",
+      "edition": "Undated",
+      "format": "PDF",
+      "path": "documents/Local_Government_Funding_Inquiry_Submission.pdf",
+      "pages": 11,
+      "bytes": 276605,
+      "sha256": "06e5d3e4f3c9bfb14a9d2439b9117e00a24176c4a2c6de9e9b18eeb187234d80",
+      "originalFilename": "Local Government 2Funding Inquiry Submission.pdf",
+      "sourceReference": {
+        "proposalReference": 5,
+        "proposalPage": 24,
+        "citedFilename": "Local Government 2Funding Inquiry Submission(20261019-074344).pdf"
+      },
+      "exactness": {
+        "status": "bibliographic-match",
+        "note": "Submission title and 11-page PDF count agree; citation and source are undated. Timestamped filename differs."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/originals/Local Government 2Funding Inquiry Submission.pdf"
+    },
+    {
+      "id": "ref-06",
+      "title": "Sovereign Space Builder, Part 2: Full System & Implementation",
+      "edition": "Undated",
+      "format": "PDF",
+      "path": "documents/Sovereign_Space_Builder_Part_2_Full_System_Implementation.pdf",
+      "pages": 33,
+      "bytes": 655325,
+      "sha256": "9cd835754187b5e8bcac2ec6c1d437b645df8442f4135ef656f207673431aea7",
+      "originalFilename": "Sovereign Space Builder part 2 Full System Specification.pdf",
+      "sourceReference": {
+        "proposalReference": 6,
+        "proposalPage": 24,
+        "citedFilename": "Sovereign Space Builder part 2 Full System Specification(20261019-095302).pdf"
+      },
+      "exactness": {
+        "status": "bibliographic-match",
+        "note": "Cover identifies Part 2 Full System & Implementation; 33-page count agrees. Undated citation; timestamped filename differs."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/originals/Sovereign Space Builder part 2 Full System Specification.pdf"
+    },
+    {
+      "id": "ref-07",
+      "title": "Strategic Plan for a Decentralized Global Sensorium: Collaborative Modeling of Known and Fringe Science via Web3 and Digital Twin Simulation",
+      "edition": "Undated",
+      "format": "PDF",
+      "path": "documents/Web3_Sensorium_for_Science_Debate.pdf",
+      "pages": 37,
+      "bytes": 604459,
+      "sha256": "f3808a7e57262f416d792639080e68b6010fcb1c53573cac9d8ea9d829a30122",
+      "originalFilename": "Web3 Sensorium for Science Debate.pdf",
+      "sourceReference": {
+        "proposalReference": 7,
+        "proposalPage": 24,
+        "citedFilename": "Web3 Sensorium for Science Debate(20261019-095302).pdf"
+      },
+      "exactness": {
+        "status": "bibliographic-match",
+        "note": "Full strategic-plan title and 37-page count agree. Undated citation; timestamped filename differs."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/originals/Web3 Sensorium for Science Debate.pdf"
+    },
+    {
+      "id": "ref-08",
+      "title": "The Aura Operating Zeitgeist",
+      "edition": "Version 0.1 | Draft for advisor review | 6 April 2018",
+      "format": "DOCX",
+      "path": "documents/Aura_Operating_Zeitgeist_Whitepaper_2018.docx",
+      "pages": null,
+      "bytes": 3641345,
+      "sha256": "e66cb283281c22a194e9acb2080cf9e544e1bd298d3b83b379e7c18d72c5339d",
+      "originalFilename": "Aura Operating Zeitgeist Whitepaper 7April18.docx",
+      "sourceReference": {
+        "proposalReference": 8,
+        "proposalPage": 24,
+        "citedFilename": "Aura Operating Zeitgeist Whitepaper 7April18(1).docx"
+      },
+      "exactness": {
+        "status": "edition-match",
+        "note": "Title, author metadata and stated 6 April 2018 date agree. Filename omits the citation suffix (1); original DOCX copied unchanged. Word metadata reports 17 pages; pagination has not been re-rendered."
+      },
+      "originalBytesPreserved": true,
+      "reportedPages": 17,
+      "paginationNote": "Word document metadata only; actual pagination depends on rendering environment."
+    },
+    {
+      "id": "ref-09",
+      "title": "Aura OZ: The Aura Operating Zeitgeist",
+      "edition": "June 2018 mini-pitch | alternate PDF format",
+      "format": "PDF",
+      "path": "documents/Aura_OZ_Mini_Pitch_June_2018_Alternate_PDF.pdf",
+      "pages": 14,
+      "bytes": 1305452,
+      "sha256": "939203e264b9bb368d0e060d24aea6c5c1b81455f76474b3c002694a469daa11",
+      "originalFilename": "Aura OZ miniPitch June1_2018.pdf",
+      "sourceReference": {
+        "proposalReference": 9,
+        "proposalPage": 25,
+        "citedFilename": "Aura OZ miniPitch June1_2018(1).pptx"
+      },
+      "exactness": {
+        "status": "alternate-format",
+        "note": "A 14-page PDF with matching Aura OZ / Aura Operating Zeitgeist title and June1_2018 filename. The cited 14-slide PPTX was not found; PDF-to-PPTX content identity is unverified."
+      },
+      "originalBytesPreserved": true
+    },
+    {
+      "id": "ref-10",
+      "title": "Virtual Cloning and Aura Creation: How to Build an Intelligent Aura & a Digital Version of Your Self",
+      "edition": "Undated learning progression | alternate DOCX format",
+      "format": "DOCX",
+      "path": "documents/Virtual_Cloning_Aura_Creation_Learning_Progression_Alternate_DOCX.docx",
+      "pages": null,
+      "bytes": 155670,
+      "sha256": "5062835d183c4a0f53cbbd6be4fbd20228fc20f0168c9c2b77721cc1c3cf31b0",
+      "originalFilename": "AuraOZ - AGi 14 day Full Time Learning Progres.docx",
+      "sourceReference": {
+        "proposalReference": 10,
+        "proposalPage": 25,
+        "citedFilename": "AuraOZ - AGi 14 day Full Time Learning Progression and Thought Experiment(1).pdf"
+      },
+      "exactness": {
+        "status": "alternate-format",
+        "note": "Title, author and learning-progression subtitle agree. Cited 15-page PDF was not found. Available DOCX metadata reports 14 pages; format and pagination differ, and edition equivalence is unverified."
+      },
+      "originalBytesPreserved": true,
+      "reportedPages": 14,
+      "paginationNote": "Word document metadata only; actual pagination depends on rendering environment."
+    },
+    {
+      "id": "ref-11",
+      "title": "Blend Aura to Unity",
+      "edition": "Undated technical exploration",
+      "format": "PDF",
+      "path": "documents/Blend_Aura_to_Unity.pdf",
+      "pages": 59,
+      "bytes": 1501986,
+      "sha256": "8a7dd6bdb0ce918a2ca7bba5255c0608fdae6b5e5d4fdb81e1010fb586455b33",
+      "originalFilename": "Blend Aura to Unity.pdf",
+      "sourceReference": {
+        "proposalReference": 11,
+        "proposalPage": 25,
+        "citedFilename": "Blend Aura to Unity(20261019-074341).pdf"
+      },
+      "exactness": {
+        "status": "bibliographic-match",
+        "note": "Title and 59-page count agree. Undated citation; timestamped filename differs."
+      },
+      "originalBytesPreserved": true,
+      "sourceRepository": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes",
+      "sourceRepositoryPath": "documents/originals/Blend Aura to Unity.pdf"
+    },
+    {
+      "id": "teacher-training",
+      "title": "Aura Teacher Training: A sixty-day progression",
+      "edition": "14 October 2026",
+      "format": "PDF",
+      "path": "documents/Aura_Teacher_Training_60_Days.pdf",
+      "pages": 60,
+      "bytes": 458131,
+      "sha256": "13bb521a9f754aedb2cb88c5af981efa778bd7ec844297d92d7256534ea2418c",
+      "originalFilename": "Aura_Teacher_Training_60_Days.pdf",
+      "sourceReference": {
+        "role": "additional user-supplied document"
+      },
+      "exactness": {
+        "status": "supplied-original",
+        "note": "Additional document explicitly supplied by the user. Original bytes copied unchanged; 60 pages."
+      },
+      "originalBytesPreserved": true
+    },
+    {
+      "id": "geode-edition-3",
+      "title": "Aura Genesis Geode Development: Game Design Document",
+      "edition": "Expanded edition 3 | 14 October 2026",
+      "format": "PDF",
+      "path": "documents/Aura_Genesis_Geode_Development_Edition_3.pdf",
+      "pages": 40,
+      "bytes": 691604,
+      "sha256": "add4102f8f7bccef97fbd0b63b06e99aaa89d04f6a807398b8b5f985ff0f5496",
+      "originalFilename": "Aura_Genesis_Geode_Development_Edition_3.pdf",
+      "sourceReference": {
+        "role": "additional user-supplied document"
+      },
+      "exactness": {
+        "status": "supplied-original",
+        "note": "Additional document explicitly supplied by the user. Original bytes copied unchanged; distinct from proposal reference 2, Edition 2. 40 pages."
+      },
+      "originalBytesPreserved": true
+    }
+  ],
+  "missing": [],
+  "externalReferences": [
+    {
+      "proposalReference": 12,
+      "proposalPage": 25,
+      "title": "Verse Box",
+      "author": "iChooseInfinity",
+      "edition": "Historical archived webpage, snapshot 11 May 2014",
+      "url": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "status": "external-reference",
+      "note": "Historical webpage link from the proposal; no page snapshot was copied into this repository."
+    }
+  ],
+  "referenceImage": {
+    "title": "Verse Box supplied concept reference",
+    "path": "documents/verse-box-supplied-reference.jpg",
+    "bytes": 135733,
+    "sha256": "b460390fcb5133b24186abf26347e613c9b1813909c2f8de44799b252bb9f53b",
+    "status": "user-supplied concept; original bytes preserved; authorship and generation history not supplied"
+  }
+}

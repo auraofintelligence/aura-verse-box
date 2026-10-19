@@ -59,6 +59,8 @@ Open http://127.0.0.1:4192/. The preview server serves only public pages, assets
 
 Rebuild and check after edits. Generated root HTML is committed for GitHub Pages. Seven high-resolution WebP heroes total approximately 1.07 MB. Production image assets and exact generation prompts are in the repository; the images illustrate proposed settings and do not depict completed installations.
 
+The completed browser review checked all seven chapters in 320px-wide frames (305px content width after the scrollbar): every hero loaded, no horizontal overflow occurred and visible text stayed at least 18px outside image credits. Desktop review covered the full-width hero, seven-route menu, Escape dismissal, sitemap/source search and empty states, and the floating top link. All 19 source-reference URLs returned successful responses in the 20 October 2026 availability check; reachability does not validate the linked claims.
+
 ## Publishing
 
 `.github/workflows/pages.yml` builds, validates and deploys a public-only artifact containing pages, assets, documents and discovery files. The repository's Pages source must be **GitHub Actions**. Pushes to `main` then publish automatically. `.github/repository.json` records the intended public visibility, About description, canonical homepage and topics; the file itself does not apply GitHub settings.
@@ -68,6 +70,8 @@ Rebuild and check after edits. Generated root HTML is committed for GitHub Pages
 The XML sitemap covers all seven canonical chapter URLs. Each chapter links to `llms.txt`, which identifies the guide, sources, licence and rights. Discovery grants no additional commercial reuse or AI-training permission.
 
 Crawler rules on GitHub Pages apply at the origin root, `https://auraofintelligence.github.io/robots.txt`. This project's `robots.txt` explains that limitation. `.github/robots-root-snippet.txt` provides narrowly scoped search-discovery and training-crawler directives for `/aura-verse-box/`, to be merged while preserving the existing origin rules. Crawler cooperation does not enforce copyright or guarantee indexing.
+
+The origin policy was extended for this project in [commit c7e6434](https://github.com/auraofintelligence/auraofintelligence.github.io/commit/c7e64343b44a55ebd920c87b5c206fec6ad474a0), preserving the existing directives and sitemap entries. Search discovery is allowed for general crawlers, OAI-SearchBot and Claude-SearchBot; GPTBot, ClaudeBot and Google-Extended receive scoped opt-outs for this project.
 
 ## Licence and attribution
 

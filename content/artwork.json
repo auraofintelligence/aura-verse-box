@@ -1,0 +1,97 @@
+{
+  "project": "Aura Verse Box",
+  "generated": "2026-10-20",
+  "tool": "OpenAI image_gen built-in",
+  "disclosure": "AI-generated concept visualisations, not photographs of completed installations. Imagery does not validate construction, accessibility or medical outcomes.",
+  "reference": {
+    "file": "documents/verse-box-supplied-reference.jpg",
+    "role": "User-supplied visual reference for affordable plywood construction and plum felt materials; generated scenes are original compositions."
+  },
+  "processing": "Original 1774 x 887 PNG files preserved in working archive. Public 1774 x 887 WebP derivatives converted at quality 87 without generative editing.",
+  "images": [
+    {
+      "page": "index",
+      "src": "assets/images/hero-index.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated concept of an open-front plywood Verse Box with plum acoustic panels, curtain, desk and screen in a warm community hall.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: photorealistic architectural concept visualization for Verse Box, an affordable community demo booth for building personal AI and recording community participation, inspired in subject/materials by the attached reference but a fresh image.\nScene/backdrop: a quiet welcoming Australian community hall with timber floor and warm window light, a modest human-scale open-front single-person booth positioned in the RIGHT half of the frame.\nSubject: simple blonde plywood frame and panel construction with visible realistic joinery, dark muted plum acoustic felt side and rear panels, gathered plum curtain on one side, normal comfortable chair at small timber desk, one computer display showing a subtle abstract flowing purple and teal pattern with NO writing, desktop microphone, small task light. Clearly inexpensive approachable furniture, functional design.\nComposition/framing: very wide architectural photography at eye level; entire booth visible, located in rightmost 55% with no crop of top or floor. LEFT 40% is deliberately uncluttered dark deep plum shadow wall and floor, softly graded negative space suitable for white website headline. No people.\nLighting/mood: warm gold task lighting, soft natural daylight around the booth, calm and grounded; high-end editorial architecture photograph quality but humble materials.\nColor palette: dark aubergine/plum, honey timber, muted lavender, restrained teal screen glow.\nMaterials/textures: plywood grain, tactile acoustic felt, matte cloth curtain, ordinary hardware.\nText: none.\nConstraints: no signage, letters, logos, labels, captions or watermark. No medical equipment, no oxygen tubes, no HBOT chamber, no expensive sci-fi capsule. This is a proposed architectural concept image, not evidence of a finished public installation. No collage, no borders, no black bars. Generate one image only.",
+      "sha256": "64ff260f9d280be1eedb2956ec5379fa5899f00f3acfb6ce2236143e8d32c219",
+      "bytes": 121666
+    },
+    {
+      "page": "experience",
+      "src": "assets/images/hero-experience.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated concept of the Verse Box interior with chair, screen, desk microphone and warm task lighting.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: cinematic full-width website chapter hero, 2:1 landscape.\nPrimary request: original photorealistic architectural concept image inside an affordable Verse Box personal AI demo booth.\nScene: warm modest community centre, camera close enough to appreciate the booth interior. Natural blonde plywood desk, dark plum acoustic felt walls, cloth plum curtain drawn aside, comfortable ordinary desk chair, computer display showing a restrained abstract plum and teal flowing field WITHOUT text, desktop microphone, keyboard, slim warm task light. Realistic sensible construction.\nComposition: the inviting interior chair and desk sit in the RIGHT half; view at eye level across open approach space. LEFT 40% is softly shadowed deep aubergine acoustic wall and empty tabletop suitable for overlay text. Wide editorial architecture photograph, no people, no text.\nLighting: soft warm desk light, gentle daylight, tactile material detail, quiet thoughtful atmosphere.\nPalette: aubergine, muted plum, honey timber, soft warm ivory and restrained teal.\nConstraints: no signs, logo, captions, writing or watermark. No medical equipment, oxygen apparatus, clinical cues or futuristic capsule. No borders or collage. Proposed design concept, not documentary evidence of a finished installation. Generate one image only.",
+      "sha256": "8b6a6b83ef33a16ccd3d966add53995a604348e54fdde90e547d364da8a46ae9",
+      "bytes": 125102
+    },
+    {
+      "page": "personal-aura",
+      "src": "assets/images/hero-personal-aura.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated concept of a personal AI workspace with an abstract torus on a screen, a microphone and a blank notebook.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original cinematic full-width website chapter hero, 2:1 wide landscape.\nPrimary request: personal AI workspace design concept within an affordable timber Verse Box booth, photorealistic interior editorial image.\nScene: quiet dark plum felt-lined booth corner, natural blonde timber work surface, normal large computer monitor at RIGHT displaying an elegant abstract luminous torus of many fine plum lavender and subtle teal curved lines on black. No interface text. A simple desktop microphone and comfortable practical chair, small notebook with blank pages, warm task light.\nComposition: desk and torus monitor clearly composed in RIGHT 55%, LEFT 40% is deep softly shadowed aubergine acoustic wall and lightly visible empty desk area for website heading. Eye-level perspective, generous negative space, richly tactile material but humble accessible furniture.\nLighting: warm pool of task light on timber, soft screen glow; quiet thoughtful welcoming mood.\nPalette: aubergine/plum, natural honey wood, warm ivory, lavender and restrained teal.\nConstraints: no people, no words or written text, no symbols that resemble writing, no logo, caption or watermark. No health equipment, no brain scan, no clinical setting, no medical claims, no sci-fi capsule. This image visualizes a proposed demo concept. No collage or borders. Generate one image only.",
+      "sha256": "ab97d0cc0283c8b72dd8c1292268b01ce8abd9be0c8a7cdd4cb57de3c8ee5419",
+      "bytes": 175838
+    },
+    {
+      "page": "community",
+      "src": "assets/images/hero-community.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated concept of a modest plywood Verse Box beside bright community hall windows looking onto gum trees.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original full-width architectural website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: create a fresh photorealistic concept visualization for Verse Box as an affordable, modest plywood booth for personal AI conversation, community participation and recording in an Australian community centre. Related in visual design to a timber-and-plum demo booth, not an expensive capsule.\nScene/backdrop: generously spaced Australian community hall beside broad glazed doors; daylight, eucalyptus gum trees visible outdoors, modest communal table far in background.\nSubject: simple single-person OPEN-FRONT booth on RIGHT side of the panorama with natural plywood frame, muted plum acoustic felt walls, a plum fabric privacy curtain tied open, a compact timber desk, ordinary task chair, screen with subtle abstract teal/plum light waves and NO text, a microphone, warm task lamp. The booth front should have a wide unobstructed level entrance with no raised sill and a generous approach path. Ordinary safe furniture and realistic joinery.\nComposition/framing: eye-level very wide view showing the full booth and welcoming daylight context to its right. LEFT 40% is uncluttered deep plum wall in soft shadow with some empty floor for white headline overlay. Booth occupies rightmost 50%. Spacious but intimate, no people.\nLighting/mood: warm Australian late morning light and soft shadow, calm and welcoming editorial architecture photography.\nColor palette: plum, aubergine, honey timber, warm ivory, pale sage outdoors.\nMaterials/textures: realistic plywood grain, tactile felt, cloth curtain, polished old timber floor.\nText: none.\nConstraints: no logos, words, signs, captions or watermarks. No medical equipment, no oxygen tubes, no HBOT chamber. No futuristic luxury capsule. Must read as a design concept, not proof of an existing installation. No collage, black bars or borders. Generate one image only.",
+      "sha256": "a29c8a21a115562f990ae3a497055c6a947abc510c38bd86b34c1693a73836b7",
+      "bytes": 194784
+    },
+    {
+      "page": "trial",
+      "src": "assets/images/hero-trial.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated workshop concept of a plywood booth with plum felt and curtain beside neatly arranged tools and materials.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, wide cinematic landscape 2:1.\nPrimary request: photorealistic workshop concept image of an affordable Verse Box community demo booth being assembled from simple natural plywood and plum acoustic felt.\nScene: a tidy timber workshop space in an Australian community hall. RIGHT of frame contains an almost complete humble open-front plywood booth frame, carefully fitted plum felt rear panel, partly hung plum curtain, small timber desk visible inside. Adjacent sturdy workbench has a neat stack of plywood offcuts, plum felt swatch, cordless drill and tape measure, simple fasteners in a small tray. No people. No debris or unsafe construction.\nComposition: wide eye-level architecture/product photography; booth and organized materials cluster in RIGHT 55%. LEFT 40% is uncluttered dark aubergine wall in shadow and empty workbench edge, negative space for website headline. Show entire physical concept in realistic scale.\nLighting: warm practical workshop light mixed with soft daylight, tangible honest materials, welcoming makerspace mood.\nPalette: muted plum, aubergine, natural honey timber, warm ivory.\nConstraints: no readable markings, no signs, no writing or logos, no caption, no watermark. No medical or oxygen equipment. No futuristic luxury technology. This is an illustrative proposed construction concept; not a technical construction plan or documentary photograph. No collage, borders or black bars. Generate one image only.",
+      "sha256": "f37af10a2f6e04b2ac00c3aaf60ad7a99c47971adce1507ba5be576d50b02a5d",
+      "bytes": 157746
+    },
+    {
+      "page": "sources",
+      "src": "assets/images/hero-sources.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated still life of blank proposal papers, a plum folder, notebook and microphone on a timber desk.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original cinematic 2:1 landscape full-width chapter hero banner.\nPrimary request: photorealistic concept still life for the sources and proposal chapter of Verse Box, a modest public personal-AI booth project.\nScene: warm blonde timber desk against dark aubergine acoustic felt wall. On RIGHT side of desk, a tidy stack of unmarked proposal papers, two partly overlapping blank paper sheets, closed plain plum folder, blank open notebook, ordinary pen and small desktop microphone. A corner of simple plywood booth frame with plum felt is visible far right, warm task lamp lights the paper and timber. The papers MUST be entirely free of text, fake characters or diagrams; the website will supply actual accessible documents separately.\nComposition: cinematic editorial still-life photograph at a slight downward eye-level angle. Rightmost 55% contains papers, folder, microphone and lamp; LEFT 40% is deep shadowed aubergine wall and clear timber desk space suitable for white web heading. Minimal, grounded and welcoming.\nLighting: warm gold practical light, soft daylight edge, realistic paper and wood textures.\nPalette: aubergine/plum, honey timber, warm ivory paper, matte black microphone.\nConstraints: no people, no text or readable markings of any kind, no brand, signage, logo or watermark. No medical equipment. No sci-fi styling. This is an original illustrative concept scene, no borders or collage. Generate one image only.",
+      "sha256": "383dbe2395d3893f7da5a59e2111e50c174addd5341f6b27a7a81e0aa7d795f3",
+      "bytes": 115482
+    },
+    {
+      "page": "sitemap",
+      "src": "assets/images/hero-sitemap.webp",
+      "width": 1774,
+      "height": 887,
+      "alt": "AI-generated wide concept of an open-front Verse Box in a spacious community hall with gum trees outside.",
+      "is_ai_generated": true,
+      "purpose": "Proposed design concept",
+      "prompt": "Use case: product-mockup.\nAsset type: original full-width website sitemap chapter hero, cinematic landscape 2:1.\nPrimary request: welcoming wide architectural concept image of an affordable Verse Box demo booth in a spacious Australian community hall.\nScene: warm old timber floor, tall windows with leafy gum trees outside, calm muted ivory hall with deep plum feature wall. RIGHT side is a modest natural blonde plywood open-front single-person booth with plum felt panels and a plum curtain tied open; comfortable task chair, compact computer monitor with subtle abstract plum/teal wave image and no text, small desk microphone, warm task lamp. Broad uncluttered approach and level floor. A simple community table beyond the booth to the far right, no people.\nComposition: wider and more spacious than a product closeup; eye-level editorial architecture panorama, booth occupying rightmost 40%, entire booth and generous surrounding floor visible. LEFT 45% is uncluttered deep aubergine wall softly shadowed, useful for white web headline. Strong elegant horizontal composition, photograph-like.\nLighting: soft warm daylight from high windows, natural warm gold tones, calm community atmosphere.\nPalette: deep plum, muted mauve, honey timber, warm ivory, sage trees.\nConstraints: no text, labels, logos, signs, captions or watermark, no medical or oxygen equipment, no clinical setting, no expensive futuristic capsule, no borders or collage. Proposed concept visualization; not evidence of an operating public booth. Generate one image only.",
+      "sha256": "6915b1bba520d24800628178531db91952d247967b5cfdc512143e6ff40939ab",
+      "bytes": 176686
+    }
+  ]
+}

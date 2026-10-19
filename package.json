@@ -1,0 +1,9 @@
+{
+  "name": "aura-verse-box",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lower-cost public introduction to Aura building, Community Hours and shared capability.",
+  "scripts": {"build": "node scripts/build.mjs", "check": "node scripts/check.mjs", "dev": "node scripts/serve.mjs"},
+  "engines": {"node": ">=20"}
+}
+

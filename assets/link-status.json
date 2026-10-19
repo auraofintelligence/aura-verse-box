@@ -1,0 +1,208 @@
+{
+  "checkedAtUTC": "2026-10-19T14:52:44.714Z",
+  "source": "aura-verse-box/assets/references.json",
+  "policy": {
+    "workers": 4,
+    "timeoutMs": 15000,
+    "requests": "One network GET per reference, following ordinary redirects; no HTTP retries. Prior sandbox DNS probe failed before requests were sent.",
+    "classification": "not-found requires an actual HTTP 404 or 410; blocked and timeout are inconclusive."
+  },
+  "summary": {
+    "success": 19,
+    "blocked": 0,
+    "timeout": 0,
+    "not-found": 0
+  },
+  "results": [
+    {
+      "title": "A fair go in the age of intelligence — public edition",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 466
+    },
+    {
+      "title": "UNGA81 source repository",
+      "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 751
+    },
+    {
+      "title": "Community Hours — public introduction",
+      "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 333
+    },
+    {
+      "title": "Community Hours source repository",
+      "url": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 1426
+    },
+    {
+      "title": "Verse Box — archived 11 May 2014 page",
+      "url": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 7436
+    },
+    {
+      "title": "NIST: Zero Trust Architecture",
+      "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://csrc.nist.gov/pubs/sp/800/207/final",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 2199
+    },
+    {
+      "title": "Apple: Security of runtime processes",
+      "url": "https://support.apple.com/en-au/guide/security/sec15bfe098e/web",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://support.apple.com/en-au/guide/security/sec15bfe098e/web",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 1502
+    },
+    {
+      "title": "Apple: Local network permission",
+      "url": "https://support.apple.com/en-au/102229",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://support.apple.com/en-au/102229",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 884
+    },
+    {
+      "title": "GrapheneOS: Features overview",
+      "url": "https://grapheneos.org/features",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://grapheneos.org/features",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 85
+    },
+    {
+      "title": "WebKit: Updates to Storage Policy",
+      "url": "https://webkit.org/blog/14403/updates-to-storage-policy/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://webkit.org/blog/14403/updates-to-storage-policy/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 918
+    },
+    {
+      "title": "Apple Developer: waitsForConnectivity",
+      "url": "https://developer.apple.com/documentation/foundation/urlsessionconfiguration/waitsforconnectivity",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://developer.apple.com/documentation/foundation/urlsessionconfiguration/waitsforconnectivity",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 547
+    },
+    {
+      "title": "Netgate: Ingress and Egress Filtering",
+      "url": "https://docs.netgate.com/pfsense/en/latest/firewall/ingress-egress.html",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://docs.netgate.com/pfsense/en/latest/firewall/ingress-egress.html",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 1000
+    },
+    {
+      "title": "NSW Health: Hyperbaric Medicine",
+      "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/hyperbaric-medicine",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/hyperbaric-medicine",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 145
+    },
+    {
+      "title": "TGA: Software-based medical devices",
+      "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 757
+    },
+    {
+      "title": "GovInfo: AI Summit remarks, 23 July 2025",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 483
+    },
+    {
+      "title": "Aura Genesis Protocol — partner atlas",
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/index.html",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/index.html",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 267
+    },
+    {
+      "title": "Luke Nathan Hayes — Man and Mind",
+      "url": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 270
+    },
+    {
+      "title": "Luke Nathan Hayes — open record",
+      "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 975
+    },
+    {
+      "title": "Verse Box — website source repository",
+      "url": "https://github.com/auraofintelligence/aura-verse-box",
+      "method": "GET",
+      "httpStatus": 200,
+      "finalUrl": "https://github.com/auraofintelligence/aura-verse-box",
+      "redirected": false,
+      "status": "success",
+      "durationMs": 709
+    }
+  ]
+}

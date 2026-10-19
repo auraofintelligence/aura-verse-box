@@ -1,0 +1,115 @@
+{
+  "updated": "2026-10-20",
+  "references": [
+    {
+      "title": "A fair go in the age of intelligence — public edition",
+      "url": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "proposalPage": 23,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "UNGA81 source repository",
+      "url": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "proposalPage": 23,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Community Hours — public introduction",
+      "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "proposalPage": 23,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Community Hours source repository",
+      "url": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "proposalPage": 23,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Verse Box — archived 11 May 2014 page",
+      "url": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "proposalPage": 25,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "NIST: Zero Trust Architecture",
+      "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Apple: Security of runtime processes",
+      "url": "https://support.apple.com/en-au/guide/security/sec15bfe098e/web",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Apple: Local network permission",
+      "url": "https://support.apple.com/en-au/102229",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "GrapheneOS: Features overview",
+      "url": "https://grapheneos.org/features",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "WebKit: Updates to Storage Policy",
+      "url": "https://webkit.org/blog/14403/updates-to-storage-policy/",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Apple Developer: waitsForConnectivity",
+      "url": "https://developer.apple.com/documentation/foundation/urlsessionconfiguration/waitsforconnectivity",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Netgate: Ingress and Egress Filtering",
+      "url": "https://docs.netgate.com/pfsense/en/latest/firewall/ingress-egress.html",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "NSW Health: Hyperbaric Medicine",
+      "url": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/hyperbaric-medicine",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "TGA: Software-based medical devices",
+      "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "GovInfo: AI Summit remarks, 23 July 2025",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm",
+      "proposalPage": 26,
+      "kind": "Proposal source"
+    },
+    {
+      "title": "Aura Genesis Protocol — partner atlas",
+      "url": "https://auraofintelligence.github.io/aura-genesis-geode-atlas/index.html",
+      "kind": "Partner project"
+    },
+    {
+      "title": "Luke Nathan Hayes — Man and Mind",
+      "url": "https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/",
+      "kind": "Creator reference"
+    },
+    {
+      "title": "Luke Nathan Hayes — open record",
+      "url": "https://github.com/auraofintelligence/open-record-luke-nathan-hayes/",
+      "kind": "Creator reference"
+    },
+    {
+      "title": "Verse Box — website source repository",
+      "url": "https://github.com/auraofintelligence/aura-verse-box",
+      "kind": "This website"
+    }
+  ]
+}

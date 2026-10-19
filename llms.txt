@@ -1,0 +1,36 @@
+# Verse Box
+
+> A proposed lower-cost public introduction to Aura building, C-Hours and community participation on Minjerribah and across Redlands.
+
+Canonical website: https://auraofintelligence.github.io/aura-verse-box/
+Source repository: https://github.com/auraofintelligence/aura-verse-box
+Licence: https://github.com/auraofintelligence/aura-verse-box/blob/main/LICENCE.md
+Rights: https://github.com/auraofintelligence/aura-verse-box/blob/main/RIGHTS.md
+XML sitemap: https://auraofintelligence.github.io/aura-verse-box/sitemap.xml
+
+## Public chapters
+- [Welcome](https://auraofintelligence.github.io/aura-verse-box/): Explore Verse Box: a proposed lower-cost public demonstration for personal Aura building, Community Hours and community participation on Minjerribah and across Redlands.
+- [The experience](https://auraofintelligence.github.io/aura-verse-box/experience.html): What a first Verse Box visit could involve: explore an interest, review a sourced result and continue on your own device.
+- [Your Aura](https://auraofintelligence.github.io/aura-verse-box/personal-aura.html): Aura is a proposed personally directed AI environment connecting memories, values, skills and projects, with chosen permissions and portable records.
+- [C-Hours & community](https://auraofintelligence.github.io/aura-verse-box/community.html): Understand Community Hours, voluntary contribution, P4A and locally shaped cooperation through the Verse Box public trial proposal.
+- [The proposed trial](https://auraofintelligence.github.io/aura-verse-box/trial.html): What the proposed Verse Box trial needs: hosts, reusable equipment, access, tested permissions, local agreements and an honest review of outcomes and costs.
+- [Documents & sources](https://auraofintelligence.github.io/aura-verse-box/sources.html): Download the corrected Verse Box proposal, inspect the source bibliography and links, and find project provenance, rights and Luke Nathan Hayes references.
+- [Sitemap](https://auraofintelligence.github.io/aura-verse-box/sitemap.html): Every page of the Verse Box public guide, from a first visit and personal Aura to C-Hours, the proposed trial and original documents.
+
+## Source documents
+- [Verse Box: Trial Proposal](https://auraofintelligence.github.io/aura-verse-box/documents/Verse_Box_Trial_Proposal_Version_1_Corrected.pdf): Version 1 | 19 October 2026 | corrected public copy 20 October 2026; corrected-public-copy
+- [A fair go in the age of intelligence: An invitation to build Joyful Responsible Abundance](https://auraofintelligence.github.io/aura-verse-box/documents/UNGA81_Joyful_Responsible_Abundance_Refined.pdf): Personal contribution to UNGA 81, September 2026; edition-match
+- [Aura Genesis Protocol: Game Design Document](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_Genesis_Protocol_Game_Design_Document_V2.pdf): Pre-trial design specification, Edition 2, 13 October 2026; edition-match
+- [Aura of Intelligence, Version 7](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_of_Intelligence_Version_7_July_2023.pdf): July 2023; bibliographic-match
+- [Community Hours and Joyful Responsible Abundance: An introduction and growth plan for Minjerribah, Australia and Oceania](https://auraofintelligence.github.io/aura-verse-box/documents/C_Hour_Joyful_Responsible_Abundance_Plan_Edition_5.pdf): Planning edition 5, 23 September 2026; edition-match
+- [Local Government 2Funding Inquiry Submission](https://auraofintelligence.github.io/aura-verse-box/documents/Local_Government_Funding_Inquiry_Submission.pdf): Undated; bibliographic-match
+- [Sovereign Space Builder, Part 2: Full System & Implementation](https://auraofintelligence.github.io/aura-verse-box/documents/Sovereign_Space_Builder_Part_2_Full_System_Implementation.pdf): Undated; bibliographic-match
+- [Strategic Plan for a Decentralized Global Sensorium: Collaborative Modeling of Known and Fringe Science via Web3 and Digital Twin Simulation](https://auraofintelligence.github.io/aura-verse-box/documents/Web3_Sensorium_for_Science_Debate.pdf): Undated; bibliographic-match
+- [The Aura Operating Zeitgeist](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_Operating_Zeitgeist_Whitepaper_2018.docx): Version 0.1 | Draft for advisor review | 6 April 2018; edition-match
+- [Aura OZ: The Aura Operating Zeitgeist](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_OZ_Mini_Pitch_June_2018_Alternate_PDF.pdf): June 2018 mini-pitch | alternate PDF format; alternate-format
+- [Virtual Cloning and Aura Creation: How to Build an Intelligent Aura & a Digital Version of Your Self](https://auraofintelligence.github.io/aura-verse-box/documents/Virtual_Cloning_Aura_Creation_Learning_Progression_Alternate_DOCX.docx): Undated learning progression | alternate DOCX format; alternate-format
+- [Blend Aura to Unity](https://auraofintelligence.github.io/aura-verse-box/documents/Blend_Aura_to_Unity.pdf): Undated technical exploration; bibliographic-match
+- [Aura Teacher Training: A sixty-day progression](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_Teacher_Training_60_Days.pdf): 14 October 2026; supplied-original
+- [Aura Genesis Geode Development: Game Design Document](https://auraofintelligence.github.io/aura-verse-box/documents/Aura_Genesis_Geode_Development_Edition_3.pdf): Expanded edition 3 | 14 October 2026; supplied-original
+
+The public proposal is a corrected edition removing the withdrawn incomplete flatpack study. Other source files preserve their recorded editions. Historical assumptions do not override the current non-financial C-Hour definition or operator choice. Discovery does not grant extra commercial reuse or AI-training permission. Supplied sources and third-party material retain their rights. Images are generated design concepts.

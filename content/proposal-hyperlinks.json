@@ -1,0 +1,171 @@
+{
+  "source": "Verse_Box_Trial_Proposal_Version_1_Corrected.pdf",
+  "pageCount": 26,
+  "hyperlinks": [
+    {
+      "page": 23,
+      "uri": "https://auraofintelligence.github.io/UNGA81-Luke-Hayes/",
+      "rect": [
+        128.3835,
+        598.6898,
+        398.5398,
+        610.0898
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 23,
+      "uri": "https://github.com/auraofintelligence/UNGA81-Luke-Hayes",
+      "rect": [
+        112.7605,
+        579.4898,
+        391.7349,
+        590.8898
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 23,
+      "uri": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "rect": [
+        156.8511,
+        252.88977,
+        422.0486,
+        264.2898
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 23,
+      "uri": "https://github.com/auraofintelligence/C-Hour-introduction",
+      "rect": [
+        112.7605,
+        233.68982,
+        386.7761,
+        245.08979
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 25,
+      "uri": "https://web.archive.org/web/20140511061053/http://ichooseinfinity.com/verse-box/",
+      "rect": [
+        48,
+        384.00228,
+        447.2551,
+        397.20235
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://csrc.nist.gov/pubs/sp/800/207/final",
+      "rect": [
+        48,
+        639.7648,
+        238.3623,
+        651.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://support.apple.com/en-au/guide/security/sec15bfe098e/web",
+      "rect": [
+        48,
+        578.7648,
+        349.0781,
+        590.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://support.apple.com/en-au/102229",
+      "rect": [
+        48,
+        530.7648,
+        230.8652,
+        542.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://grapheneos.org/features",
+      "rect": [
+        48,
+        482.7648,
+        191.7715,
+        494.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://webkit.org/blog/14403/updates-to-storage-policy/",
+      "rect": [
+        48,
+        434.7648,
+        303.9463,
+        446.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://developer.apple.com/documentation/foundation/urlsessionconfiguration/waitsforconnectivity",
+      "rect": [
+        48,
+        386.7648,
+        500.0435,
+        398.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://docs.netgate.com/pfsense/en/latest/firewall/ingress-egress.html",
+      "rect": [
+        48,
+        338.7648,
+        369.6533,
+        350.7648
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://www.seslhd.health.nsw.gov.au/prince-of-wales-hospital/services-clinics/directory/hyperbaric-medicine",
+      "rect": [
+        48,
+        290.76478,
+        540.6357,
+        302.76478
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+      "rect": [
+        48,
+        229.76477,
+        541.1587,
+        241.76477
+      ],
+      "action": "/URI"
+    },
+    {
+      "page": 26,
+      "uri": "https://www.govinfo.gov/content/pkg/DCPD-202500787/html/DCPD-202500787.htm",
+      "rect": [
+        48,
+        168.76477,
+        426.3604,
+        180.76477
+      ],
+      "action": "/URI"
+    }
+  ]
+}
