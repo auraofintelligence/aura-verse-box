@@ -57,7 +57,7 @@ Open http://127.0.0.1:4192/. The preview server serves only public pages, assets
 | `scripts/check.mjs` | Link, anchor, navigation, metadata and source-integrity checks |
 | `assets/style.css`, `assets/app.js` | Responsive presentation and optional search |
 
-Rebuild and check after edits. Generated root HTML is committed for GitHub Pages. Seven high-resolution WebP heroes total approximately 1.07 MB. Production image assets and exact generation prompts are in the repository; the images illustrate proposed settings and do not depict completed installations.
+Rebuild and check after edits. Generated root HTML is committed for GitHub Pages. Seven high-resolution WebP heroes provide the chapter imagery. Production image assets and exact generation prompts are in the repository; the images illustrate proposed settings and do not depict completed installations.
 
 The completed browser review checked all seven chapters in 320px-wide frames (305px content width after the scrollbar): every hero loaded, no horizontal overflow occurred and visible text stayed at least 18px outside image credits. Desktop review covered the full-width hero, seven-route menu, Escape dismissal, sitemap/source search and empty states, and the floating top link. All 19 source-reference URLs returned successful responses in the 20 October 2026 availability check; reachability does not validate the linked claims.
 
@@ -83,3 +83,7 @@ Source direction: Luke Nathan Hayes / Aura of Intelligence.
 - [Community Hours introduction](https://auraofintelligence.github.io/C-Hour-introduction/)
 - [Luke Nathan Hayes — Man and Mind](https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/)
 - [Luke Nathan Hayes — Open Record](https://github.com/auraofintelligence/open-record-luke-nathan-hayes/)
+
+## 20 October artwork corrections
+
+The personal Aura hero now uses the seven nested horn-torus design shown on the supplied Verse Box monitor, cross-checked against the original 2018 Aura design and Blend Aura to Unity. Its central pinch replaces the decorative open-hole ring. The trial hero now depicts a visibly deeper booth with a rear workstation, task chair and entrance space. Current assets use versioned filenames, and the complete prompts and superseded records remain in content/artwork.json.

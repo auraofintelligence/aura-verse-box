@@ -35,15 +35,54 @@
     },
     {
       "page": "personal-aura",
-      "src": "assets/images/hero-personal-aura.webp",
+      "src": "assets/images/hero-personal-aura-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated concept of a personal AI workspace with an abstract torus on a screen, a microphone and a blank notebook.",
+      "alt": "AI-generated personal Aura workspace with seven rainbow nested horn-torus shells meeting at one central point on the monitor.",
       "is_ai_generated": true,
       "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: original cinematic full-width website chapter hero, 2:1 wide landscape.\nPrimary request: personal AI workspace design concept within an affordable timber Verse Box booth, photorealistic interior editorial image.\nScene: quiet dark plum felt-lined booth corner, natural blonde timber work surface, normal large computer monitor at RIGHT displaying an elegant abstract luminous torus of many fine plum lavender and subtle teal curved lines on black. No interface text. A simple desktop microphone and comfortable practical chair, small notebook with blank pages, warm task light.\nComposition: desk and torus monitor clearly composed in RIGHT 55%, LEFT 40% is deep softly shadowed aubergine acoustic wall and lightly visible empty desk area for website heading. Eye-level perspective, generous negative space, richly tactile material but humble accessible furniture.\nLighting: warm pool of task light on timber, soft screen glow; quiet thoughtful welcoming mood.\nPalette: aubergine/plum, natural honey wood, warm ivory, lavender and restrained teal.\nConstraints: no people, no words or written text, no symbols that resemble writing, no logo, caption or watermark. No health equipment, no brain scan, no clinical setting, no medical claims, no sci-fi capsule. This image visualizes a proposed demo concept. No collage or borders. Generate one image only.",
-      "sha256": "ab97d0cc0283c8b72dd8c1292268b01ce8abd9be0c8a7cdd4cb57de3c8ee5419",
-      "bytes": 175838
+      "prompt": "Use case: precise-object-edit.\nAsset type: full-width website chapter hero, 2:1 landscape.\nInput images: Image 1 is the edit target, the plum and timber desk scene with an incorrect open-hole torus on its monitor. Image 2 is the user's original uploaded Verse Box reference; the monitor in this image shows the correct rainbow nested horn-torus design. Image 3 is the user's original 2018 design collage; use the nested ROYGBIV wireframe shells in its upper-right and central-right geometric panels. Image 4 is the user's original Blender side view showing the single horn torus's exact central pinch.\nPrimary request: Change ONLY the contents of the computer monitor in Image 1. Replace the existing decorative hollow torus graphic with a faithful rendering of the user's original nested horn-torus Aura design, following the actual geometry and appearance on the monitor in Image 2 and the original geometry in Images 3–4.\nGeometry requirements: precisely SEVEN concentric nested horn tori, one red innermost, then orange, yellow, green, blue, indigo, violet outermost. Each horn torus has equal major and minor radii R=r and scales around exactly the SAME central zero point. In a front/side view, they are broad roughly 2:1 horizontal wireframe forms, their inner upper and lower curves pinching together at the central point. Show a fine regular quadrilateral wireframe/translucent mesh so all seven nested colored layers and their common central pinch are legible. The common zero point must be visibly connected: there must be NO open circular hole or oval void. Use the user's source geometry, not a decorative orbital knot. A very slight elevated perspective is acceptable if the central pinch and nested shells stay obvious.\nMonitor composition: center the seven-shell graphic on the monitor's dark almost-black background, fully within the display area, vivid fine rainbow lines, red center and violet outside. Do not include text, numerical labels, axes, screenshots of the collage, editor UI, surrounding geosphere, stock screen examples, or human figure. It must read as a single faithful nested horn-torus application visual.\nInvariants: retain the entire original Image 1 composition, camera view, monitor bezel and position, microphone, keyboard, chair, blank notebook, plant, task lamp, plywood desk, plum felt walls, warm lighting and dark left-side negative space. Preserve image aspect ratio and realistic materials. The workstation and scene should be unchanged; only replace the image shown on the display.\nAvoid: ordinary ring torus, donut hole, hollow central oval, twisted ribbons, interlocked hoops, spirograph, single purple or teal ring, concentric circles, sci-fi decorative swirl, text or watermark.",
+      "sha256": "69474642724fdb19924c23f206abfe6ef03de1debfec7afd61b22cdcbf91e324",
+      "bytes": 237280,
+      "revisions": [
+        {
+          "page": "personal-aura",
+          "src": "assets/images/hero-personal-aura.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated concept of a personal AI workspace with an abstract torus on a screen, a microphone and a blank notebook.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: original cinematic full-width website chapter hero, 2:1 wide landscape.\nPrimary request: personal AI workspace design concept within an affordable timber Verse Box booth, photorealistic interior editorial image.\nScene: quiet dark plum felt-lined booth corner, natural blonde timber work surface, normal large computer monitor at RIGHT displaying an elegant abstract luminous torus of many fine plum lavender and subtle teal curved lines on black. No interface text. A simple desktop microphone and comfortable practical chair, small notebook with blank pages, warm task light.\nComposition: desk and torus monitor clearly composed in RIGHT 55%, LEFT 40% is deep softly shadowed aubergine acoustic wall and lightly visible empty desk area for website heading. Eye-level perspective, generous negative space, richly tactile material but humble accessible furniture.\nLighting: warm pool of task light on timber, soft screen glow; quiet thoughtful welcoming mood.\nPalette: aubergine/plum, natural honey wood, warm ivory, lavender and restrained teal.\nConstraints: no people, no words or written text, no symbols that resemble writing, no logo, caption or watermark. No health equipment, no brain scan, no clinical setting, no medical claims, no sci-fi capsule. This image visualizes a proposed demo concept. No collage or borders. Generate one image only.",
+          "sha256": "ab97d0cc0283c8b72dd8c1292268b01ce8abd9be0c8a7cdd4cb57de3c8ee5419",
+          "bytes": 175838,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "User requested faithful nested horn-torus geometry"
+        }
+      ],
+      "references": [
+        {
+          "path": "assets/images/hero-personal-aura.webp",
+          "role": "Superseded hero; only monitor image corrected"
+        },
+        {
+          "path": "documents/verse-box-supplied-reference.jpg",
+          "role": "Primary visual reference: rainbow nested horn tori on the uploaded booth's monitor"
+        },
+        {
+          "path": "documents/Aura_Operating_Zeitgeist_Whitepaper_2018.docx",
+          "member": "word/media/image2.jpeg",
+          "role": "Original nested-shell design collage"
+        },
+        {
+          "path": "documents/Blend_Aura_to_Unity.pdf",
+          "page": 11,
+          "role": "Original Blender horn-torus geometry"
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Monitor content corrected using the user-supplied booth screen and original Aura Matrix geometry."
     },
     {
       "page": "community",
@@ -59,15 +98,44 @@
     },
     {
       "page": "trial",
-      "src": "assets/images/hero-trial.webp",
+      "src": "assets/images/hero-trial-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated workshop concept of a plywood booth with plum felt and curtain beside neatly arranged tools and materials.",
+      "alt": "AI-generated concept of a deep plywood Verse Box in a community workshop, with a rear desk, task chair, plum acoustic panels, tied-open curtain and clear entrance floor space.",
       "is_ai_generated": true,
       "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, wide cinematic landscape 2:1.\nPrimary request: photorealistic workshop concept image of an affordable Verse Box community demo booth being assembled from simple natural plywood and plum acoustic felt.\nScene: a tidy timber workshop space in an Australian community hall. RIGHT of frame contains an almost complete humble open-front plywood booth frame, carefully fitted plum felt rear panel, partly hung plum curtain, small timber desk visible inside. Adjacent sturdy workbench has a neat stack of plywood offcuts, plum felt swatch, cordless drill and tape measure, simple fasteners in a small tray. No people. No debris or unsafe construction.\nComposition: wide eye-level architecture/product photography; booth and organized materials cluster in RIGHT 55%. LEFT 40% is uncluttered dark aubergine wall in shadow and empty workbench edge, negative space for website headline. Show entire physical concept in realistic scale.\nLighting: warm practical workshop light mixed with soft daylight, tangible honest materials, welcoming makerspace mood.\nPalette: muted plum, aubergine, natural honey timber, warm ivory.\nConstraints: no readable markings, no signs, no writing or logos, no caption, no watermark. No medical or oxygen equipment. No futuristic luxury technology. This is an illustrative proposed construction concept; not a technical construction plan or documentary photograph. No collage, borders or black bars. Generate one image only.",
-      "sha256": "f37af10a2f6e04b2ac00c3aaf60ad7a99c47971adce1507ba5be576d50b02a5d",
-      "bytes": 157746
+      "prompt": "Use case: precise-object-edit.\nAsset type: full-width Verse Box trial chapter website hero, cinematic 2:1 landscape.\nPrimary request: replace the shallow cabinet-like booth in the first reference with a genuinely DEEP, HUMAN-SCALE walk-in single-person plywood workstation booth. Preserve the visual family's warm timber, plum felt, community workshop, left dark negative space and right booth composition. The new booth MUST be a deep room-shaped enclosure, never a wardrobe, kiosk shelf or display cabinet.\nInput images: Image 1 is the current trial hero to redesign; Image 2 is the supplied Verse Box construction reference showing the needed human-scale desk, chair and booth depth. Use Image 2 only for spatial/construction inspiration; do not copy its signage or display.\nSpatial design: realistic approximate outer booth dimensions 1.8 metres wide, 2.0 metres FRONT-TO-BACK DEEP and 2.3 metres tall. Its front-to-back depth must be visibly comparable to or greater than its width. Full-depth 65-centimetre desk against the rear wall; normal monitor with low-contrast plain abstract app-window blocks and absolutely NO writing, no torus; keyboard; desktop microphone; warm task lamp. A normal comfortable office task chair on casters in the middle, positioned facing the rear monitor, with realistic seated legroom below the desk and a clearly visible generous floor space between chair and entrance where a person could step in, pull the chair out, turn and move. No stool, no shallow shelf. A tied-open plum curtain hangs at the entrance edge, revealing the full depth.\nCamera/framing: three-quarter FRONT-RIGHT architectural view at eye level. The open front and the full LONG exterior right sidewall are both clearly visible. The right sidewall recedes strongly from the front edge toward the rear corner, making the substantial front-to-back depth unmistakable. Interior ceiling and floor perspective lines also lead a long distance back to the rear desk. Entire booth visible with full height and full footprint. Booth occupies the RIGHT 55% of image. LEFT 40% remains uncluttered shadowed deep aubergine/plum workshop wall and empty floor for white headline overlay.\nSetting: warm Australian community workshop, realistic old timber floor, simple affordable plywood construction with honest joinery, plum felt acoustic panels inside, a small tidy workbench with a folded plum felt swatch, a few plywood offcuts and basic drill at far right. Calm soft natural daylight with warm task light. Modest attainable practical furniture, not a futuristic or luxury pod.\nText: none.\nConstraints: no people, no printed text, letters, labels, signage, logos, watermarks, measurements or captions. No torus or ring graphic on screen. No medical or oxygen equipment. No scientific or medical claims. Proposed design concept visualisation only. No borders, black bars or collage. Generate one image only.",
+      "sha256": "a5dd8449caafcd5addba64a4e3e17a5dd2e74191f162bed702a56d1d817e8534",
+      "bytes": 223320,
+      "revisions": [
+        {
+          "page": "trial",
+          "src": "assets/images/hero-trial.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated workshop concept of a plywood booth with plum felt and curtain beside neatly arranged tools and materials.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, wide cinematic landscape 2:1.\nPrimary request: photorealistic workshop concept image of an affordable Verse Box community demo booth being assembled from simple natural plywood and plum acoustic felt.\nScene: a tidy timber workshop space in an Australian community hall. RIGHT of frame contains an almost complete humble open-front plywood booth frame, carefully fitted plum felt rear panel, partly hung plum curtain, small timber desk visible inside. Adjacent sturdy workbench has a neat stack of plywood offcuts, plum felt swatch, cordless drill and tape measure, simple fasteners in a small tray. No people. No debris or unsafe construction.\nComposition: wide eye-level architecture/product photography; booth and organized materials cluster in RIGHT 55%. LEFT 40% is uncluttered dark aubergine wall in shadow and empty workbench edge, negative space for website headline. Show entire physical concept in realistic scale.\nLighting: warm practical workshop light mixed with soft daylight, tangible honest materials, welcoming makerspace mood.\nPalette: muted plum, aubergine, natural honey timber, warm ivory.\nConstraints: no readable markings, no signs, no writing or logos, no caption, no watermark. No medical or oxygen equipment. No futuristic luxury technology. This is an illustrative proposed construction concept; not a technical construction plan or documentary photograph. No collage, borders or black bars. Generate one image only.",
+          "sha256": "f37af10a2f6e04b2ac00c3aaf60ad7a99c47971adce1507ba5be576d50b02a5d",
+          "bytes": 157746,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "User requested substantially deeper booth"
+        }
+      ],
+      "references": [
+        {
+          "path": "G:/GithubLocal-PC/aura-verse-box/assets/images/hero-trial.webp",
+          "role": "Prior trial hero to redesign with substantially deeper booth"
+        },
+        {
+          "path": "C:/Users/Aura2020/AppData/Local/Temp/codex-clipboard-8c5d878a-45f5-409c-893b-fd642a7e9d61.jpg",
+          "role": "User-supplied physical depth and desk/chair construction reference"
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Booth redesigned with visible front-to-back depth, a rear workstation, task chair and entrance floor space."
     },
     {
       "page": "sources",
