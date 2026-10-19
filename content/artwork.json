@@ -11,15 +11,48 @@
   "images": [
     {
       "page": "index",
-      "src": "assets/images/hero-index.webp",
+      "src": "assets/images/hero-index-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated concept of an open-front plywood Verse Box with plum acoustic panels, curtain, desk and screen in a warm community hall.",
+      "alt": "AI-generated concept of a plywood Verse Box with plum acoustic panels, a chair and a monitor showing seven nested rainbow horn-torus shells meeting at a central point.",
       "is_ai_generated": true,
       "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: photorealistic architectural concept visualization for Verse Box, an affordable community demo booth for building personal AI and recording community participation, inspired in subject/materials by the attached reference but a fresh image.\nScene/backdrop: a quiet welcoming Australian community hall with timber floor and warm window light, a modest human-scale open-front single-person booth positioned in the RIGHT half of the frame.\nSubject: simple blonde plywood frame and panel construction with visible realistic joinery, dark muted plum acoustic felt side and rear panels, gathered plum curtain on one side, normal comfortable chair at small timber desk, one computer display showing a subtle abstract flowing purple and teal pattern with NO writing, desktop microphone, small task light. Clearly inexpensive approachable furniture, functional design.\nComposition/framing: very wide architectural photography at eye level; entire booth visible, located in rightmost 55% with no crop of top or floor. LEFT 40% is deliberately uncluttered dark deep plum shadow wall and floor, softly graded negative space suitable for white website headline. No people.\nLighting/mood: warm gold task lighting, soft natural daylight around the booth, calm and grounded; high-end editorial architecture photograph quality but humble materials.\nColor palette: dark aubergine/plum, honey timber, muted lavender, restrained teal screen glow.\nMaterials/textures: plywood grain, tactile acoustic felt, matte cloth curtain, ordinary hardware.\nText: none.\nConstraints: no signage, letters, logos, labels, captions or watermark. No medical equipment, no oxygen tubes, no HBOT chamber, no expensive sci-fi capsule. This is a proposed architectural concept image, not evidence of a finished public installation. No collage, no borders, no black bars. Generate one image only.",
-      "sha256": "64ff260f9d280be1eedb2956ec5379fa5899f00f3acfb6ce2236143e8d32c219",
-      "bytes": 121666
+      "prompt": "Use case: precise-object-edit.\nAsset type: original full-width 2:1 Verse Box website homepage hero.\nInput images: Image 1 is the edit target, the plywood and plum booth in a warm hall. Image 2 is the corrected personal Aura scene and is the exact visual guide for the graphic to place on the monitor. Image 3 is the user's uploaded original booth concept; its screen shows the original nested horn-torus design.\nPrimary request: Replace ONLY the display contents of the monitor in Image 1 with the SAME seven rainbow nested horn-torus graphic visible on the monitor in Image 2, faithfully following the original design in Image 3.\nThe screen should show exactly seven nested fine quadrilateral wireframe horn-torus shells: red innermost, then orange, yellow, green, blue, indigo and violet outermost, all scaled about one common central zero point. Each surface has equal major/minor radii R=r. The broad horizontal 2:1 silhouette has upper and lower inner curves pinched to a connected central point. All seven shells are visible through the translucent fine grid. There is NO open ring hole, no black central oval. Closely match the existing corrected screen graphic in Image 2; center it fully inside Image 1's screen on a near-black display background, accounting for the monitor's perspective. No text, numbers or editor controls.\nInvariants: all other Image 1 scene pixels and composition should remain visually unchanged: entire plywood booth proportions and depth, walls, dark plum acoustic felt, gathered curtain, chair, desk, microphone, keyboard, task light, plant, timber floor, windows, daylight, warm color balance, camera angle and empty dark left-side headline area. Keep original 2:1 framing. Only the monitor's displayed graphic changes.\nAvoid: ordinary donut/ring torus with a circular void, single torus, orbital knots, twisted ribbons, glowing purple oval, spirograph, wave wallpaper, logos, letters, signage or watermark. Proposed concept visualisation, not a photograph of an operating installation.",
+      "sha256": "cea9d31ebb8a6a96275489e6054add3d60716dd873128ac09592f8b98ff078f3",
+      "bytes": 157512,
+      "references": [
+        {
+          "path": "assets/images/hero-index.webp",
+          "role": "Original homepage scene; monitor graphic replaced"
+        },
+        {
+          "path": "assets/images/hero-personal-aura-v2.webp",
+          "role": "Corrected seven nested horn-torus graphic"
+        },
+        {
+          "path": "documents/verse-box-supplied-reference.jpg",
+          "role": "Original user-supplied booth screen geometry"
+        }
+      ],
+      "revisions": [
+        {
+          "page": "index",
+          "src": "assets/images/hero-index.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated concept of an open-front plywood Verse Box with plum acoustic panels, curtain, desk and screen in a warm community hall.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: original full-width website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: photorealistic architectural concept visualization for Verse Box, an affordable community demo booth for building personal AI and recording community participation, inspired in subject/materials by the attached reference but a fresh image.\nScene/backdrop: a quiet welcoming Australian community hall with timber floor and warm window light, a modest human-scale open-front single-person booth positioned in the RIGHT half of the frame.\nSubject: simple blonde plywood frame and panel construction with visible realistic joinery, dark muted plum acoustic felt side and rear panels, gathered plum curtain on one side, normal comfortable chair at small timber desk, one computer display showing a subtle abstract flowing purple and teal pattern with NO writing, desktop microphone, small task light. Clearly inexpensive approachable furniture, functional design.\nComposition/framing: very wide architectural photography at eye level; entire booth visible, located in rightmost 55% with no crop of top or floor. LEFT 40% is deliberately uncluttered dark deep plum shadow wall and floor, softly graded negative space suitable for white website headline. No people.\nLighting/mood: warm gold task lighting, soft natural daylight around the booth, calm and grounded; high-end editorial architecture photograph quality but humble materials.\nColor palette: dark aubergine/plum, honey timber, muted lavender, restrained teal screen glow.\nMaterials/textures: plywood grain, tactile acoustic felt, matte cloth curtain, ordinary hardware.\nText: none.\nConstraints: no signage, letters, logos, labels, captions or watermark. No medical equipment, no oxygen tubes, no HBOT chamber, no expensive sci-fi capsule. This is a proposed architectural concept image, not evidence of a finished public installation. No collage, no borders, no black bars. Generate one image only.",
+          "sha256": "64ff260f9d280be1eedb2956ec5379fa5899f00f3acfb6ce2236143e8d32c219",
+          "bytes": 121666,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "User requested correct nested horn-torus geometry on homepage monitor"
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Homepage monitor updated to the corrected original nested horn-torus design; selected by the user."
     },
     {
       "page": "experience",

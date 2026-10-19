@@ -86,4 +86,4 @@ Source direction: Luke Nathan Hayes / Aura of Intelligence.
 
 ## 20 October artwork corrections
 
-The personal Aura hero now uses the seven nested horn-torus design shown on the supplied Verse Box monitor, cross-checked against the original 2018 Aura design and Blend Aura to Unity. Its central pinch replaces the decorative open-hole ring. The trial hero now depicts a visibly deeper booth with a rear workstation, task chair and entrance space. Current assets use versioned filenames, and the complete prompts and superseded records remain in content/artwork.json.
+The homepage and personal Aura heroes now use the seven nested horn-torus design shown on the supplied Verse Box monitor, cross-checked against the original 2018 Aura design and Blend Aura to Unity. Their monitor graphics show the common central pinch; the personal Aura graphic replaces the decorative open-hole ring. The trial hero now depicts a visibly deeper booth with a rear workstation, task chair and entrance space. Current assets use versioned filenames, and the complete prompts and superseded records remain in content/artwork.json.
