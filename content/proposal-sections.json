@@ -21,7 +21,7 @@
       },
       {
         "type": "p",
-        "text": "Aura of Intelligence, or Aura, is proposed as a personal artificial intelligence (AI) environment that belongs to its operator and grows with their experience. Its purpose is to help people learn faster, know themselves, think independently and navigate choices across everyday life, work and public participation.",
+        "text": "Aura of Intelligence, or Aura, is proposed as a personal artificial intelligence (AI) environment that belongs to its operator and grows with their experience. Inspired by an aura or halo around a person, it would work across computerised devices, including wearables and smart devices. It is designed to provide a fair go in the age of superintelligence, helping people learn faster, know themselves, think independently and navigate choices across everyday life, work and public participation.",
         "sourcePage": 1
       },
       {
@@ -97,19 +97,19 @@
           ],
           [
             "Aura of Intelligence / Aura",
-            "A personally owned AI environment that develops around its operator's experience, interests and choices."
+            "A personally owned AI environment across computerised devices, including wearables and smart devices. Inspired by an aura or halo, it develops with its operator to support a fair go in the age of superintelligence."
           ],
           [
-            "Home L0",
+            "Home Level Zero (L0)",
             "The person and their controlled private environment, with devices, storage and services arranged to suit their requirements."
           ],
           [
-            "Community-Hour / C-Hour",
+            "<a href=\"https://auraofintelligence.github.io/C-Hour-introduction/\" target=\"_blank\" rel=\"noopener noreferrer\">Community-Hour / C-Hour</a>",
             "A record of one verified hour of voluntary human contribution, with no monetary conversion."
           ],
           [
-            "P4A",
-            "Purple Party for Australia: a proposed public interface for understanding issues, comparing options, participating and following decisions."
+            "<a href=\"https://p4a.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">P4A</a>",
+            "Purple Party for Australia: a proposed political party and public interface for understanding issues, comparing options, participating and following decisions."
           ],
           [
             "Aura Genesis Protocol",
@@ -1291,7 +1291,7 @@
     "blocks": [
       {
         "type": "callout",
-        "text": "One Community-Hour, or C-Hour, recognises one verified hour of voluntary human contribution. [4, pp. 10-11]",
+        "text": "One <a href=\"https://auraofintelligence.github.io/C-Hour-introduction/\" target=\"_blank\" rel=\"noopener noreferrer\">Community-Hour, or C-Hour</a>, recognises one verified hour of voluntary human contribution. [4, pp. 10-11]",
         "sourcePage": 18
       },
       {
@@ -1388,7 +1388,7 @@
     "blocks": [
       {
         "type": "p",
-        "text": "Purple Party for Australia (P4A) proposes a public interface for democratic participation. It would help people understand public issues, compare possible changes and connect discussion with sources, proposals, responsible organisations and decisions. [1, p. 6; 4, pp. 15-18]",
+        "text": "<a href=\"https://p4a.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Purple Party for Australia (P4A)</a> is a proposed political party and public interface for democratic participation. It would help people understand public issues, compare possible changes and connect discussion with sources, proposals, responsible organisations and decisions. [1, p. 6; 4, pp. 15-18]",
         "sourcePage": 19
       },
       {
