@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "index",
+    "title": "Verse Box",
+    "kicker": "A FAIR GO IN THE AGE OF SUPERINTELLIGENCE",
+    "description": "A proposed public introduction to personal intelligence, learning and participation.",
+    "pdfPages": [
+      1,
+      2
+    ],
+    "blocks": [
+      {
+        "type": "callout",
+        "text": "Learn, explore and shape your own path with an Aura that belongs to you.",
+        "sourcePage": 1
+      },
+      {
+        "type": "p",
+        "text": "Verse Box is a proposal for a portable public demonstration on Minjerribah, also known as North Stradbroke Island, and in the wider Redlands area in Queensland. A trial would give residents and visitors access to demonstrations, equipment and assistance with personal or community projects.",
+        "sourcePage": 1
+      },
+      {
+        "type": "p",
+        "text": "Aura of Intelligence, or Aura, is proposed as a personal artificial intelligence (AI) environment that belongs to its operator and grows with their experience. Its purpose is to help people learn faster, know themselves, think independently and navigate choices across everyday life, work and public participation.",
+        "sourcePage": 1
+      },
+      {
+        "type": "table",
+        "headers": [
+          "An interest you might bring",
+          "An experience to explore"
+        ],
+        "rows": [
+          [
+            "Learn and think",
+            "Explore an idea, practise a skill and compare explanations with sources."
+          ],
+          [
+            "Live, travel and work",
+            "Plan a journey or business activity, or find the rules, services and legal pathways relevant to a situation."
+          ],
+          [
+            "Know yourself and create",
+            "Reflect on experience, recover project memories, make creative work or explore a measured avatar."
+          ],
+          [
+            "Participate in public life",
+            "Understand an issue, compare proposals, contribute and follow decisions."
+          ]
+        ],
+        "sourcePage": 1
+      },
+      {
+        "type": "h",
+        "text": "A fair go and Joyful Responsible Abundance",
+        "sourcePage": 1,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A fair go means access to intelligence, learning and a voice in decisions that affect your life. Joyful Responsible Abundance connects that access with freedom to enjoy life, responsibility for consequences and benefits shared more widely. Reusing suitable second-hand equipment would help keep the trial budget low. [1, pp. 2-7; 4, pp. 8-18]",
+        "sourcePage": 1
+      },
+      {
+        "type": "p",
+        "text": "Hosts, locations, dates, activities, costs and contact arrangements would be agreed before a public invitation.",
+        "sourcePage": 1,
+        "style": "small"
+      },
+      {
+        "type": "p",
+        "text": "Prepared by Luke Nathan Hayes, Aura of Intelligence. Minjerribah / North Stradbroke Island, Queensland, Australia.",
+        "sourcePage": 1,
+        "style": "small"
+      },
+      {
+        "type": "h",
+        "text": "Choose your own adventure",
+        "level": 2,
+        "sourcePage": 2
+      },
+      {
+        "type": "p",
+        "text": "Begin with an interest, question or project. Your Aura could develop through everyday use, with tools added as your interests grow. You would choose the devices and services you trust, the information you share and the work your AI does on your behalf.",
+        "sourcePage": 2
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Component",
+          "Role"
+        ],
+        "rows": [
+          [
+            "Verse Box",
+            "A portable public station for demonstrations, sensors and applications, using second-hand equipment where suitable."
+          ],
+          [
+            "Aura of Intelligence / Aura",
+            "A personally owned AI environment that develops around its operator's experience, interests and choices."
+          ],
+          [
+            "Home L0",
+            "The person and their controlled private environment, with devices, storage and services arranged to suit their requirements."
+          ],
+          [
+            "Community-Hour / C-Hour",
+            "A record of one verified hour of voluntary human contribution, with no monetary conversion."
+          ],
+          [
+            "P4A",
+            "Purple Party for Australia: a proposed public interface for understanding issues, comparing options, participating and following decisions."
+          ],
+          [
+            "Aura Genesis Protocol",
+            "A separate opt-in programme for an ultra-high-definition Aura twin and twin socialising. Explore <a href=\"genesis.html\">Aura Genesis</a>."
+          ]
+        ],
+        "sourcePage": 2
+      }
+    ]
+  },
+  {
+    "id": "visit",
+    "title": "A first visit",
+    "kicker": "THE PUBLIC INTRODUCTION",
+    "description": "Explore an interest, review the result and continue on your own device.",
+    "pdfPages": [
+      3
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "The proposed public station would combine demonstrations, assisted activities and access to the website or application.",
+        "sourcePage": 3
+      },
+      {
+        "type": "h",
+        "text": "Explore an interest",
+        "sourcePage": 3,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A host could help someone explore a skill, a project or a local issue. An everyday question might lead into travel planning, a business decision or finding an appropriate legal pathway before seeking advice. Demonstrations would use sample records.",
+        "sourcePage": 3
+      },
+      {
+        "type": "h",
+        "text": "Review the result",
+        "sourcePage": 3,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A session might produce a sourced explanation, body measurements, a creative work or a draft community proposal. The participant could inspect the inputs, correct errors and save the result to their own device.",
+        "sourcePage": 3
+      },
+      {
+        "type": "h",
+        "text": "Continue on your own device",
+        "sourcePage": 3,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A QR code or web address would open the website, with an application available for installation. Personal records would be collected and organised on the participant's device or browser storage. Assistance with transfer would be available for people using the public equipment.",
+        "sourcePage": 3
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Public equipment",
+          "Its intended role"
+        ],
+        "rows": [
+          [
+            "Computers and displays",
+            "Reuse suitable second-hand equipment, including ex-government or business mini PCs that meet the requirements for operating the sensors and applications."
+          ],
+          [
+            "Sensors, capture and measurement",
+            "Cameras, phone mounts, lighting and measuring tools for the activities offered. Check driver support, connections and calibration with the intended computer."
+          ],
+          [
+            "Portable flatpack structure",
+            "A transportable station with braced framing, stable feet, secure equipment mounts and clear assembly instructions."
+          ]
+        ],
+        "sourcePage": 3
+      },
+      {
+        "type": "p",
+        "text": "Candidate computers would be checked for software and driver support, connections, memory, storage and performance with the sensors and applications running together. Selection would consider condition, repairability and total cost.",
+        "sourcePage": 3,
+        "style": "small"
+      }
+    ]
+  },
+  {
+    "id": "aura",
+    "title": "An Aura of your own",
+    "kicker": "PERSONAL INTELLIGENCE",
+    "description": "A personal AI environment for memory, learning, creativity and everyday choices.",
+    "pdfPages": [
+      4,
+      5,
+      6
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "An Aura would connect its operator's memories, interests, skills, values, relationships, body references, projects and questions. The operator would control the personal archive, access settings and direction of development. Connected AI could search this context, explain connections and assist with ongoing work. [1, pp. 5-6; 3, pp. 4-11]",
+        "sourcePage": 4
+      },
+      {
+        "type": "p",
+        "text": "Aura's boundary is \"clothing, not skin\": an external, removable system. Its operator would be able to stop using it and delete their personal archive.",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "Context over time",
+        "sourcePage": 4,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Returning to a project after several months could bring back its goals, sources, decisions, results and subsequent changes. The operator could follow the reasoning behind an earlier decision and update the record as the work develops.",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "Learning and digital hygiene",
+        "sourcePage": 4,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Aura could help its operator learn quickly, compare sources, question assumptions and test explanations. Digital hygiene would include recognising deceptive or manipulative material, reviewing incoming connections and controlling sharing. These tools would support independent judgement when encountering advertising, political messaging, synthetic media or automated accounts.",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "Digital twins",
+        "sourcePage": 4,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A digital twin is a computer-based representation linked to a person, place or activity. A personal twin might combine a measured body model with records of experience. A place twin might represent a room, garden or public path. Records identify measured observations, personal accounts, interpretations and simulations.",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "The spatial interface",
+        "sourcePage": 4,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Aura's spatial design draws on aura and chakra imagery. Seven nested horn tori organise information around a person and meet at a central infinity point. Personal data occupies the internal faces of the hollow geometry, with additional privacy conditions. Public data occupies the external surfaces. Records receive addresses within this structure and can be explored through spatial views, lists, text or voice. [8; 11]",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "Sharing",
+        "sourcePage": 4,
+        "level": 2
+      },
+      {
+        "type": "callout",
+        "text": "The operator only shares information or content that is useful to the situation and does not cause them a privacy concern.",
+        "sourcePage": 4
+      },
+      {
+        "type": "h",
+        "text": "Choose the experiences that interest you",
+        "level": 2,
+        "sourcePage": 5
+      },
+      {
+        "type": "p",
+        "text": "An Aura could grow across the activities that matter to its operator. Expansion options would describe their functions, equipment, data access, costs and support. [3, pp. 4-11; 1, p. 6; 4, pp. 15-18; 2, pp. 1-3]",
+        "sourcePage": 5
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Expansion theme",
+          "An experience to explore",
+          "Choices that shape it"
+        ],
+        "rows": [
+          [
+            "Body scan and avatar",
+            "Build a measured body representation.",
+            "Measurements, camera inputs, accuracy, inferred dimensions and access to images."
+          ],
+          [
+            "Values and reflection",
+            "Explore interests, goals, preferences and personal patterns.",
+            "Pace, vocabulary, viewpoints, intimate scope and retained interpretations."
+          ],
+          [
+            "Memory and mind palace",
+            "Organise records around meaningful places and recover their context.",
+            "Archives, sources, personal/shared spaces and storage location."
+          ],
+          [
+            "Learning, timing and practice",
+            "Explore ideas, practise skills and organise learning routines.",
+            "Sources, feedback, pace, reminders and quiet periods."
+          ],
+          [
+            "Travel, Earth and stars",
+            "Explore maps, places, travel histories and plans.",
+            "Map sources, location precision, retained journeys and shared views."
+          ],
+          [
+            "Civic participation / P4A",
+            "Explore public issues, compare proposals, prepare submissions and follow decisions.",
+            "Sources, place models, participation rules, public representation, responsible bodies and responses."
+          ],
+          [
+            "Community contribution / C-Hours",
+            "Find community activities and recognise voluntary contributions through conversation.",
+            "Personally agreed sources, remembered arrangements and community-chosen thanks."
+          ],
+          [
+            "Aura Genesis Protocol",
+            "A separate opt-in path to an ultra-high-definition Aura twin and twin socialising.",
+            "Chosen biosensors, continuous session capture, private archives and separately agreed research."
+          ],
+          [
+            "Connected devices",
+            "Understand the storage and computing available to the Aura.",
+            "Device roles, operators, trust, access, capacity and maintenance."
+          ],
+          [
+            "Home and assistance",
+            "Connect household devices and assistance tools.",
+            "Sensors, voice, shared spaces, permitted actions and manual control."
+          ],
+          [
+            "Creative and immersive tools",
+            "Work with art, sound and spatial experiences.",
+            "Creative purpose, displays/headsets, assets, recordings and compute."
+          ]
+        ],
+        "sourcePage": 5
+      },
+      {
+        "type": "h",
+        "text": "An Aura that fits where life happens",
+        "level": 2,
+        "sourcePage": 6
+      },
+      {
+        "type": "p",
+        "text": "Aura's proposed applications span travel, households, learning, supported services, creative work and public participation. Equipment and services would follow the demands of each setting. [3, pp. 19-25; 1, p. 6; 4, pp. 15-18]",
+        "sourcePage": 6
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Setting or opportunity",
+          "A possible experience",
+          "What to discuss"
+        ],
+        "rows": [
+          [
+            "Travel and mobile life",
+            "Plan journeys, understand local conditions and carry personal context between places.",
+            "Sources, equipment, connectivity, location sharing and recovery after loss."
+          ],
+          [
+            "Family and shared experiences",
+            "Explore a space, learn or create together.",
+            "Personal accounts, shared content and suitable interfaces."
+          ],
+          [
+            "Learning and workshops",
+            "Learn through making, repairs, software and creative work.",
+            "Mentors, equipment, access needs and paid/voluntary status."
+          ],
+          [
+            "Legal guide and pathways",
+            "Understand the legal setting, find appropriate pathways and organise questions before seeking legal advice.",
+            "Place and jurisdiction, official sources, relevant bodies, time limits and records for an adviser."
+          ],
+          [
+            "Community projects and public decisions",
+            "Compare proposals, prepare submissions and follow decisions through P4A.",
+            "Sources, consultation dates, accessible participation, responsible bodies and published responses."
+          ],
+          [
+            "Accessibility and supported ageing",
+            "Use individually suited interfaces, memory tools or assistance.",
+            "The person's goals, chosen supporters and appropriate professional or service involvement."
+          ],
+          [
+            "Accommodation and retreats",
+            "Use Aura during a temporary stay or organised programme.",
+            "Device access, sensitive records, provider roles and handover on departure."
+          ],
+          [
+            "Performance and venues",
+            "Take part in audiovisual or shared interactive experiences.",
+            "Capacity, representation, recording, rights and who operates the systems."
+          ],
+          [
+            "Business and enterprise",
+            "Develop ideas, organise operations and explore business choices.",
+            "Customers, resources, costs, responsibilities, ownership and who benefits."
+          ]
+        ],
+        "sourcePage": 6
+      }
+    ]
+  },
+  {
+    "id": "home",
+    "title": "An Aura that fits your life",
+    "kicker": "DEVICES AND SERVICES",
+    "description": "Choose the devices, services, budget and support that suit you.",
+    "pdfPages": [
+      7,
+      8
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "An everyday Aura would be planned with the person using it. Their brief would describe the activities, privacy requirements, trusted devices and services, budget and support.",
+        "sourcePage": 7
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Decision to explore",
+          "Questions that help"
+        ],
+        "rows": [
+          [
+            "Purpose and interaction",
+            "Which personal, work or community activities would you like help with? Text, voice, pictures or spatial views? When is initiative welcome?"
+          ],
+          [
+            "Ownership and continuity",
+            "Which records, configurations and model adaptations would you own and be able to take with you? What depends on a provider's licence or service?"
+          ],
+          [
+            "Privacy priorities",
+            "Which information feels private or secret? Which uses feel acceptable? How do convenience, capability, effort and cost weigh against privacy?"
+          ],
+          [
+            "Trust and location",
+            "Which devices, people, providers and locations do you trust for particular jobs? What evidence would help you decide?"
+          ],
+          [
+            "Practical life",
+            "What equipment and records exist already? How do travel, household life, access needs and connectivity affect the arrangement?"
+          ],
+          [
+            "Support and change",
+            "Who maintains things? What help is welcome? How would you pause, simplify, move or end the arrangement?"
+          ]
+        ],
+        "sourcePage": 7
+      },
+      {
+        "type": "h",
+        "text": "Example brief",
+        "sourcePage": 7,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "\"I want help finding my earlier writing, learning music and following local planning proposals. I prefer my existing phone and a service I trust to process selected writing. I want an export I can use elsewhere and a monthly spending limit.\"",
+        "sourcePage": 7
+      },
+      {
+        "type": "h",
+        "text": "Compare suitable arrangements",
+        "sourcePage": 7,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "An equipment or service proposal would show where information travels, who can access it, setup and running costs, maintenance and support. The person could compare alternatives against their brief before purchasing equipment or connecting a service. [4, p. 40]",
+        "sourcePage": 7
+      },
+      {
+        "type": "h",
+        "text": "Where would the work happen?",
+        "level": 2,
+        "sourcePage": 8
+      },
+      {
+        "type": "p",
+        "text": "An Aura could use on-device processing, home equipment, online services or a combination. The arrangement would identify where records are stored, where applications process them and how backups are recovered.",
+        "sourcePage": 8
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Arrangement",
+          "What it might involve",
+          "Trade-off to discuss"
+        ],
+        "rows": [
+          [
+            "Existing device and online services",
+            "A phone or computer with connected applications and storage.",
+            "Provider access, terms, recurring cost and export formats."
+          ],
+          [
+            "Device-led personal Aura",
+            "Local records and supported on-device functions.",
+            "Capacity, battery use, backup and available functions."
+          ],
+          [
+            "Home storage; selected processing",
+            "An archive at home, with particular jobs run locally or elsewhere.",
+            "Remote access, transfer time, administrator access and retained copies."
+          ],
+          [
+            "Home computing and devices",
+            "A computer, storage and connected sensors sized for the workload.",
+            "Equipment, energy, noise, maintenance, travel access and performance."
+          ],
+          [
+            "Managed or cooperative support",
+            "Storage or processing through a service operator or shared facility.",
+            "Administrator access, account separation, governance, cost and migration."
+          ],
+          [
+            "Isolated workspace",
+            "A local-only network or physically disconnected device and archive.",
+            "Imports, updates, exports, recovery and available functions."
+          ]
+        ],
+        "sourcePage": 8
+      },
+      {
+        "type": "h",
+        "text": "Combine the parts that fit",
+        "sourcePage": 8,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "For example, online tools could process project documents while family recordings remain on home storage and a dedicated device holds secret material. A managed service could provide storage, processing and backup under an agreement covering operator access, retention and migration.",
+        "sourcePage": 8
+      },
+      {
+        "type": "p",
+        "text": "Browser-based personal tools would need usable export and recovery because storage quotas and automatic clearing can affect retained records. [T5]",
+        "sourcePage": 8,
+        "style": "small"
+      }
+    ]
+  },
+  {
+    "id": "privacy",
+    "title": "Public, private and secret",
+    "kicker": "PERSONAL INFORMATION",
+    "description": "Decide who can access your information, for which purpose and under what conditions.",
+    "pdfPages": [
+      9,
+      10,
+      11
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Public, private and secret views would organise information according to the operator's privacy requirements. Access settings would apply to applications, people and outward releases. [2, pp. 29-31]",
+        "sourcePage": 9
+      },
+      {
+        "type": "table",
+        "headers": [
+          "View",
+          "A possible example",
+          "Choices to record"
+        ],
+        "rows": [
+          [
+            "Public / outward",
+            "An approved biography, qualification, proposal or contribution statement.",
+            "Exact wording or media, audience, purpose, date and correction route."
+          ],
+          [
+            "Private",
+            "Project history, personal reflections, selected health records or relationship context.",
+            "Which functions and people receive access, where processing occurs and for how long."
+          ],
+          [
+            "Secret",
+            "An especially intimate account, closely held recollection or other sensitive material.",
+            "More closely bounded interpretation, training and disclosure; separate protection where chosen."
+          ]
+        ],
+        "sourcePage": 9
+      },
+      {
+        "type": "h",
+        "text": "Permissions",
+        "sourcePage": 9,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Permissions would name the material, use, recipient or process, location and duration. Storage, interpretation, model training, external actions and publication would have their own access settings.",
+        "sourcePage": 9
+      },
+      {
+        "type": "h",
+        "text": "Derived records and models",
+        "sourcePage": 9,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Transcripts, summaries, search representations and trained models may retain information from their sources. They would inherit the source restrictions. Public-facing applications would receive approved outward records through controlled access.",
+        "sourcePage": 9
+      },
+      {
+        "type": "h",
+        "text": "Keys and access",
+        "sourcePage": 9,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Accounts, encryption keys, separate stores and application controls would implement access restrictions. The agreement would identify key holders, applications with readable access, and support or household accounts. [T1]",
+        "sourcePage": 9
+      },
+      {
+        "type": "h",
+        "text": "Operator control",
+        "sourcePage": 9,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "The design gives governments and technology companies no built-in access to personal archives. Release to a public archive or research trial would be a separate, informed action by the operator, under stated conditions.",
+        "sourcePage": 9
+      },
+      {
+        "type": "p",
+        "text": "The operator would be able to delete their personal archive, backups and derived personal models. Public and research releases would separately state how already shared material is retained, withdrawn or deleted.",
+        "sourcePage": 9
+      },
+      {
+        "type": "h",
+        "text": "Who gets access, and for what?",
+        "level": 2,
+        "sourcePage": 10
+      },
+      {
+        "type": "p",
+        "text": "A provider might hold encrypted backups while another service processes selected records. The personal plan would identify the information each service receives, who can read it and what copies it retains.",
+        "sourcePage": 10
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Job",
+          "Choices to make visible"
+        ],
+        "rows": [
+          [
+            "Working storage",
+            "The main records and copies, their locations, protection, availability and authority when versions differ."
+          ],
+          [
+            "Interpretation and search",
+            "Which records go to the chosen processor, in what form, for which job and with what access."
+          ],
+          [
+            "Personal model training",
+            "The selected dataset, model, processing location, retained inputs, outputs and provider reuse terms."
+          ],
+          [
+            "Backup and recovery",
+            "Where copies live, who holds keys, who helps after loss and how a restore is demonstrated."
+          ],
+          [
+            "Support and maintenance",
+            "Who administers the equipment or account; what support access exists while it is unlocked."
+          ],
+          [
+            "Chosen disclosure",
+            "The named recipient, selected representation, purpose, retention and correction or withdrawal route."
+          ]
+        ],
+        "sourcePage": 10
+      },
+      {
+        "type": "h",
+        "text": "Encryption and processing access",
+        "sourcePage": 10,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Encryption protects information in transit and in storage. Processing may require readable information, so the plan would also identify the processing environment, administrator access and retained logs or copies.",
+        "sourcePage": 10
+      },
+      {
+        "type": "h",
+        "text": "Checking an arrangement",
+        "sourcePage": 10,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Checks would include service terms, software inspection where available, a demonstration of data transfers and permissions, an export in a usable format and recovery from a backup.",
+        "sourcePage": 10
+      },
+      {
+        "type": "p",
+        "text": "Revoking permission would block pending transfers and future access. For delivered copies, the release record would identify the recipient's retention, correction and deletion process. [2, pp. 27-31]",
+        "sourcePage": 10,
+        "style": "small"
+      },
+      {
+        "type": "h",
+        "text": "When stronger separation is wanted",
+        "level": 2,
+        "sourcePage": 11
+      },
+      {
+        "type": "p",
+        "text": "Stronger privacy arrangements would be designed around the information to protect, the likely sources of access and the person's maintenance preferences. Options include app permissions, dedicated devices, local networks and physically disconnected workspaces.",
+        "sourcePage": 11
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Option",
+          "What it changes",
+          "What remains to consider"
+        ],
+        "rows": [
+          [
+            "App permissions",
+            "Limits access to files, sensors and connected accounts.",
+            "Permission coverage, provider telemetry and onward processing."
+          ],
+          [
+            "Dedicated device or profile",
+            "Separates accounts, app data and device use.",
+            "Operating-system support, administrators, backups and recovery."
+          ],
+          [
+            "No active SIM/eSIM; home Wi-Fi",
+            "Removes the ordinary mobile-data connection.",
+            "Internet-enabled Wi-Fi still permits uploads."
+          ],
+          [
+            "Local-only home network",
+            "Connects approved local devices while blocking internet routes for that network.",
+            "Other connections, local relays, name lookups and what happens on reconnection."
+          ],
+          [
+            "Physically disconnected workspace",
+            "Separates the device from online and household-network services during secret work.",
+            "Controlled imports, updates, backups, physical access and reviewed exports."
+          ]
+        ],
+        "sourcePage": 11
+      },
+      {
+        "type": "h",
+        "text": "Local network configuration",
+        "sourcePage": 11,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "A local-only network would block outgoing internet routes for both IPv4 and IPv6, the two common internet addressing systems. Configuration would also cover permitted local services, devices that can forward information and automatic synchronisation. [T1; T7]",
+        "sourcePage": 11
+      },
+      {
+        "type": "h",
+        "text": "Phone options",
+        "sourcePage": 11,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Apple documents app sandboxing, which separates apps' private files, and a local-network permission distinct from internet access. On compatible hardware, GrapheneOS offers user profiles and a per-app Network permission covering local networks too. [T2-T4]",
+        "sourcePage": 11
+      },
+      {
+        "type": "p",
+        "text": "Apps may queue uploads for reconnection. An offline setup would include a checked import, update and reconnection process. [T6]",
+        "sourcePage": 11,
+        "style": "small"
+      }
+    ]
+  },
+  {
+    "id": "sensors",
+    "title": "Records, sensors and twins",
+    "kicker": "RECORDING AND REPRESENTATION",
+    "description": "Connect chosen records, measurements and sensors with a digital representation.",
+    "pdfPages": [
+      12,
+      13
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Inputs could include documents, photographs, recordings, body measurements, wearables and environmental sensors. The capture plan would specify sources, recording conditions, storage and processing.",
+        "sourcePage": 12
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Input",
+          "A possible use",
+          "Decision before adding it"
+        ],
+        "rows": [
+          [
+            "Notes and files",
+            "Memory, learning, projects and references.",
+            "Selected folders or records, dates, source rights, other people's information and corrections."
+          ],
+          [
+            "Voice and video",
+            "Conversation context, creative practice or reflection.",
+            "Initiation or standing permission, visible recording state, shared spaces, retention and processing location."
+          ],
+          [
+            "Measurements and images",
+            "Body modelling, avatars and simulation.",
+            "Measured and inferred details, capture conditions, accuracy and audience."
+          ],
+          [
+            "Biosensors (optional)",
+            "Map body signals and connect them with personal context and the digital twin.",
+            "Sensor choice and number, recording rates, calibration, vendor access and permitted uses."
+          ],
+          [
+            "Home and environment",
+            "Resources, comfort, gardens and automation.",
+            "Rooms, devices, household boundaries, permitted actions and manual control."
+          ],
+          [
+            "Earlier archives",
+            "Connect earlier records with current work.",
+            "Size, ownership, dates, duplicates, retention and import formats."
+          ]
+        ],
+        "sourcePage": 12
+      },
+      {
+        "type": "h",
+        "text": "Recording conditions that fit daily life",
+        "sourcePage": 12,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Capture could be started for each activity or follow a recurring schedule. Standing permission would specify the device, place, duration and uses, with controls to pause or change recording. Shared-space capture would require agreement with the people involved.",
+        "sourcePage": 12
+      },
+      {
+        "type": "h",
+        "text": "Keep sources and interpretations distinct",
+        "sourcePage": 12,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A person's words, a measured signal and an AI interpretation have different meanings. A record retains the source, time, conditions and uncertainty where relevant. A correction adds the changed understanding and updates the dependent working records. [2, pp. 25-31]",
+        "sourcePage": 12
+      },
+      {
+        "type": "h",
+        "text": "Represent the parts of life that matter",
+        "level": 2,
+        "sourcePage": 13
+      },
+      {
+        "type": "p",
+        "text": "Body and place models could support avatars, measurements, inventories, maintenance and planning. The required accuracy and detail would depend on the application.",
+        "sourcePage": 13
+      },
+      {
+        "type": "h",
+        "text": "A measured body reference",
+        "sourcePage": 13,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Capture would use measured height, a defined arm-span pose and shoulder-width measurements as reference points. Repeated readings would help assess measurement error. Front and side images would use consistent framing and lighting. The record would retain original images, measured dimensions and software estimates.",
+        "sourcePage": 13
+      },
+      {
+        "type": "p",
+        "text": "An avatar is a digital representation of a body or character. Its proportions could come from measurements, photographs or reconstruction software. Each model would record its sources, method and measured accuracy. [9, slides 8-10]",
+        "sourcePage": 13
+      },
+      {
+        "type": "h",
+        "text": "A home or place reference",
+        "sourcePage": 13,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "A room, garden or workshop model might hold inventories, maintenance notes, photographs, resource observations or different layout ideas. A simulated change is labelled as a possibility and compared with actual observations after an agreed action. [6, pp. 9-11]",
+        "sourcePage": 13
+      },
+      {
+        "type": "table",
+        "headers": [
+          "A household use",
+          "A boundary to discuss"
+        ],
+        "rows": [
+          [
+            "Find a possession or maintenance record",
+            "Selected locations and records, with separate access for each person."
+          ],
+          [
+            "Understand resources or comfort",
+            "Chosen observations or sensors, their operators and the information retained."
+          ],
+          [
+            "Operate a selected device",
+            "The particular action, resources involved, review conditions and manual control."
+          ],
+          [
+            "Plan a change together",
+            "An agreed shared view, assumptions, affected people and the later outcome."
+          ]
+        ],
+        "sourcePage": 13
+      }
+    ]
+  },
+  {
+    "id": "genesis",
+    "title": "Aura Genesis",
+    "kicker": "SEPARATE OPT-IN PROGRAMME",
+    "description": "An optional programme for an ultra-high-definition Aura twin and twin socialising.",
+    "pdfPages": [
+      14,
+      15
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Genesis is a proposed, separate opt-in programme for developing an ultra-high-definition Aura twin and learning to work with it through twin socialising. It is not required for Verse Box, an everyday Aura, C-Hours or civic participation. [2, pp. 1, 15]",
+        "sourcePage": 14
+      },
+      {
+        "type": "h",
+        "text": "Biosensors chosen by the participant",
+        "sourcePage": 14,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Participants choose which compatible biosensors to use and how many. These map the quantified self: measured biological signals that help the twin reflect its operator's biology. The sensors are external and removable.",
+        "sourcePage": 14
+      },
+      {
+        "type": "p",
+        "text": "Options include scalp EEG for brain electrical activity, ECG or optical pulse, breathing sensors, oxygen saturation, blood pressure, skin conductance, temperature, eye tracking, movement and surface EMG for muscle activity. The full chosen suite would be visible in the participation agreement. [2, pp. 17-18]",
+        "sourcePage": 14
+      },
+      {
+        "type": "h",
+        "text": "Sessions and twin socialising",
+        "sourcePage": 14,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "The proposed pressure programme is 60 two-hour sessions, totalling 120 hours. Cameras, microphones and all installed biosensors would record throughout each defined session, including rest. Hyperbaric oxygen therapy (HBOT) uses oxygen in a pressurised chamber; clinical assessment, equipment and operating conditions would have a participant-specific plan. [2, pp. 1-3; T8]",
+        "sourcePage": 14
+      },
+      {
+        "type": "p",
+        "text": "Afterwards, twin socialising would practise memory, timing, initiative, correction and approved tool use in everyday life. Recording outside pressure sessions would have its own start and stop permissions. [2, pp. 15, 34]",
+        "sourcePage": 14
+      },
+      {
+        "type": "h",
+        "text": "Research and outward release",
+        "sourcePage": 14,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Truth Engine research would examine patterns around truthful answers, instructed falsehoods, uncertainty and changed understanding. Its methods and results would require evaluation. Research participation and release of personal data would each have their own agreement.",
+        "sourcePage": 14
+      },
+      {
+        "type": "p",
+        "text": "A public or research release would identify the exact information, recipient, purpose, retention and withdrawal conditions before the operator commits it. The personal archive would remain under the operator's control, with <a href=\"personal-aura.html#privacy\">removal and deletion choices</a>. [2, pp. 29-31]",
+        "sourcePage": 14
+      },
+      {
+        "type": "h",
+        "text": "Plan for the record you create",
+        "level": 2,
+        "sourcePage": 15
+      },
+      {
+        "type": "p",
+        "text": "Genesis storage would include the complete chosen biosensor suite, cameras and microphones throughout pressure sessions, alongside existing records, models and backups. The number of sensors, recording rates, duration and retention determine the capacity required. [2, pp. 25-28]",
+        "sourcePage": 15
+      },
+      {
+        "type": "p",
+        "text": "The proposed Genesis application would be developed and validated to Software as a Medical Device (SaMD) standards, with controlled acquisition, secure storage and tested recovery. [T9]",
+        "sourcePage": 15
+      },
+      {
+        "type": "h",
+        "text": "Illustrative video storage across 120 hours",
+        "sourcePage": 15,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Bitrate is the amount of data recorded each second. These estimates use the combined average video bitrate of all cameras and decimal terabytes, or TB. Add capacity for audio, sensors, models, other files and growth.",
+        "sourcePage": 15,
+        "style": "small"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Combined bitrate",
+          "Video originals",
+          "Originals + two backup copies"
+        ],
+        "rows": [
+          [
+            "10 megabits/second",
+            "0.54 TB",
+            "1.62 TB"
+          ],
+          [
+            "25 megabits/second",
+            "1.35 TB",
+            "4.05 TB"
+          ],
+          [
+            "50 megabits/second",
+            "2.70 TB",
+            "8.10 TB"
+          ],
+          [
+            "100 megabits/second",
+            "5.40 TB",
+            "16.20 TB"
+          ]
+        ],
+        "sourcePage": 15
+      },
+      {
+        "type": "p",
+        "text": "Calculation: TB = megabits/second x hours x 3,600 / 8,000,000.",
+        "sourcePage": 15,
+        "style": "small"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Capacity item",
+          "What it includes"
+        ],
+        "rows": [
+          [
+            "Biosensor archive",
+            "Every chosen stream at its configured channel count, recording rate and precision, with timestamps, calibration and quality records."
+          ],
+          [
+            "Media and earlier records",
+            "Camera and microphone recordings, imported history and source references."
+          ],
+          [
+            "Working records",
+            "Transcripts, search indices, selected clips and display copies."
+          ],
+          [
+            "Models and processing",
+            "Base models, adapted versions, temporary working files and computer memory."
+          ],
+          [
+            "Recovery and growth",
+            "Backup versions, retention, expected new capture and reserved capacity."
+          ]
+        ],
+        "sourcePage": 15
+      },
+      {
+        "type": "h",
+        "text": "Measure a representative sample",
+        "sourcePage": 15,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Record a representative sample with the selected equipment. Measure each camera, microphone and biosensor stream, then project the complete programme, backups, model work and growth.",
+        "sourcePage": 15
+      }
+    ]
+  },
+  {
+    "id": "personal-ai",
+    "title": "Developing a personal AI",
+    "kicker": "PERSONAL DATA AND MODELS",
+    "description": "Build context, use and correct responses, and evaluate personal model adaptation.",
+    "pdfPages": [
+      16
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "A language model is trained software that works with language. Large language model is commonly shortened to LLM. Aura's proposed nanoLLM would be a compact personal model adapted to its operator's tasks, preferences and available computing.",
+        "sourcePage": 16
+      },
+      {
+        "type": "h",
+        "text": "Build the personal dataset",
+        "sourcePage": 16,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "The dataset would bring together source records, context, examples of desired responses and the operator's corrections. Everyday use would reveal missing information and recurring errors. Reviewing those cases would develop the material for personalisation and possible training.",
+        "sourcePage": 16
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Stage",
+          "Work involved"
+        ],
+        "rows": [
+          [
+            "Define the task",
+            "Describe the intended result, representative situations and criteria for a satisfactory response."
+          ],
+          [
+            "Prepare sources",
+            "Link records to their dates, origins and access conditions; retain the operator's context and corrections."
+          ],
+          [
+            "Use and correct",
+            "Review responses, record errors and add examples of the operator's preferred response."
+          ],
+          [
+            "Review coverage",
+            "Check missing context, contradictions and variation across situations."
+          ],
+          [
+            "Consider training",
+            "If retrieval is insufficient, assess adaptation methods, training examples, computing needs, cost and access settings."
+          ],
+          [
+            "Evaluate",
+            "Test on examples withheld from training and compare performance with the current arrangement, including uncertainty and privacy behaviour."
+          ]
+        ],
+        "sourcePage": 16
+      },
+      {
+        "type": "h",
+        "text": "Retrieval and training",
+        "sourcePage": 16,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Retrieval supplies relevant records to a model when it handles a task. Training changes the model using approved examples. Retrieval could provide personal context before adaptation is needed. Models trained on private or secret sources would inherit their access restrictions. [2, pp. 27-31]",
+        "sourcePage": 16
+      },
+      {
+        "type": "p",
+        "text": "The model record would include its task, training sources, processing location, evaluation results and known limits.",
+        "sourcePage": 16,
+        "style": "small"
+      }
+    ]
+  },
+  {
+    "id": "fair-go",
+    "title": "A fair go in the age of superintelligence",
+    "kicker": "JOYFUL RESPONSIBLE ABUNDANCE",
+    "description": "Wider access to intelligence, ownership, useful capability and a voice in decisions.",
+    "pdfPages": [
+      17,
+      21
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Superintelligence describes a possible level of AI capability exceeding human performance across many kinds of task. The fair-go question asks how growing capability could expand people's practical choices, understanding and share in the result. [1, pp. 2-7]",
+        "sourcePage": 17
+      },
+      {
+        "type": "p",
+        "text": "The United States and China are competing to lead increasingly powerful AI. This work proceeds on the view that Australians need practical ways to shape and benefit from the transition towards possible superintelligence. Aura, C-Hours and P4A are being developed to strengthen everyday people's understanding, participation, ownership and share in the benefits. The UNGA81 contribution frames this work as Joyful Responsible Abundance. [1, pp. 3-7; T10]",
+        "sourcePage": 21
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Opportunity",
+          "Question",
+          "Evidence"
+        ],
+        "rows": [
+          [
+            "Access to intelligence",
+            "Does this help with my task, language and access needs?",
+            "Task results, sources, support and available arrangements."
+          ],
+          [
+            "Learning and livelihoods",
+            "What could I learn, make, practise or offer?",
+            "Invitations, costs, access, paid/voluntary status and demonstrated skill or work."
+          ],
+          [
+            "Shared computing",
+            "Would shared capacity suit a job I do not want to buy equipment for?",
+            "Availability, operator access, performance, cost, governance and migration."
+          ],
+          [
+            "Ownership and enterprise",
+            "What share would people have in the productive capability?",
+            "Ownership terms, responsibilities, funding and distribution of benefits."
+          ],
+          [
+            "Freedom over time",
+            "Does this reduce burdens or create room for care, creativity or rest?",
+            "Observed time and effort; funded time away from work has its own arrangement."
+          ],
+          [
+            "Democratic participation",
+            "Which decisions affect my life, and how might I help shape them?",
+            "Sources, responsible bodies, genuine responses, amendments and outcomes."
+          ]
+        ],
+        "sourcePage": 17
+      },
+      {
+        "type": "h",
+        "text": "Joyful Responsible Abundance",
+        "sourcePage": 17,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "<b>Joyful:</b> more room for relationships, curiosity, creativity, belonging, rest and enjoyment.",
+        "sourcePage": 17
+      },
+      {
+        "type": "p",
+        "text": "<b>Responsible:</b> care for consequences, including who benefits, who carries costs, effects on other people and the environment, and what reaches future generations.",
+        "sourcePage": 17
+      },
+      {
+        "type": "p",
+        "text": "<b>Abundance:</b> wider access to useful knowledge, resources, care, opportunity and the ability to participate. The three ideas together ask whether growing capability makes life more worth living and its benefits more widely shared. [1, pp. 2-3]",
+        "sourcePage": 17
+      }
+    ]
+  },
+  {
+    "id": "c-hours",
+    "title": "Community contribution",
+    "kicker": "COMMUNITY-HOURS",
+    "description": "Recognise voluntary contribution while the agent handles the records.",
+    "pdfPages": [
+      18,
+      20
+    ],
+    "blocks": [
+      {
+        "type": "callout",
+        "text": "One Community-Hour, or C-Hour, recognises one verified hour of voluntary human contribution. [4, pp. 10-11]",
+        "sourcePage": 18
+      },
+      {
+        "type": "p",
+        "text": "C-Hours would recognise everyday care, informal help, mentoring and organised community activity. The record would preserve what the person contributed and learned, and who benefited.",
+        "sourcePage": 18
+      },
+      {
+        "type": "h",
+        "text": "Let the agent handle the records",
+        "sourcePage": 18,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "An Aura would use conversation, agreed activity details and personally chosen sources to prepare contribution recognition. It would remember recurring arrangements and ask briefly when something is unclear. A host, peer or recipient could help confirm an account where their judgement adds value. The person could correct a record through the same conversation. [4, pp. 9-11, 39-40]",
+        "sourcePage": 18
+      },
+      {
+        "type": "h",
+        "text": "Community recognition and reciprocity",
+        "sourcePage": 18,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Communities would choose their own thanks, shared experiences and reciprocal opportunities. Contributions shorter than an hour would count proportionately. The recognition carries no monetary value or financial entitlement; the supporting software would keep money, paid work, human contribution and outcomes distinct. [4, pp. 10-14, 36-40]",
+        "sourcePage": 18
+      },
+      {
+        "type": "p",
+        "text": "Participants and organisers would help shape the interactions and test whether recognition saves effort, supports relationships and makes taking part more enjoyable.",
+        "sourcePage": 18
+      },
+      {
+        "type": "h",
+        "text": "A more accessible community gathering",
+        "level": 2,
+        "sourcePage": 20
+      },
+      {
+        "type": "p",
+        "text": "In this fictional example, a resident notices that the route to a gathering is difficult for people using mobility aids and talks it through with their Aura.",
+        "sourcePage": 20
+      },
+      {
+        "type": "h",
+        "text": "Finding a way forward",
+        "sourcePage": 20,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "Aura would help describe the problem, locate the responsible organisation and compare an immediate access arrangement with a longer-term improvement. The resident would share the useful photograph and question through P4A and follow the receiving organisation's response.",
+        "sourcePage": 20
+      },
+      {
+        "type": "h",
+        "text": "Taking part",
+        "sourcePage": 20,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "A volunteer helps prepare the gathering for 80 minutes. Their Aura would draw on agreed activity information and a brief conversation to prepare recognition of 1 1/3 C-Hours, asking for clarification where needed. Another participant could help where their knowledge is useful. The community would choose its thanks. [4, pp. 9-12]",
+        "sourcePage": 20
+      },
+      {
+        "type": "h",
+        "text": "Seeing what changes",
+        "sourcePage": 20,
+        "level": 3
+      },
+      {
+        "type": "p",
+        "text": "The organisers' tools would bring together the access request, supplies, paid coordination and voluntary contribution. Afterwards, people would describe whether access improved and follow any remaining work with the responsible organisation.",
+        "sourcePage": 20
+      },
+      {
+        "type": "p",
+        "text": "The personal Aura would retain the participant's relevant records. The shared project would show what changed, what helped and what people want to improve next.",
+        "sourcePage": 20
+      }
+    ]
+  },
+  {
+    "id": "p4a",
+    "title": "Public participation through P4A",
+    "kicker": "PURPLE PARTY FOR AUSTRALIA",
+    "description": "Understand issues, compare proposals and follow public decisions.",
+    "pdfPages": [
+      19
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Purple Party for Australia (P4A) proposes a public interface for democratic participation. It would help people understand public issues, compare possible changes and connect discussion with sources, proposals, responsible organisations and decisions. [1, p. 6; 4, pp. 15-18]",
+        "sourcePage": 19
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Part of a public question",
+          "What a participant would see"
+        ],
+        "rows": [
+          [
+            "Issue and place",
+            "The account, the relevant place or asset, affected people and what remains unknown."
+          ],
+          [
+            "Evidence and alternatives",
+            "Dated sources, observations, interpretations, options, assumptions and uncertainty."
+          ],
+          [
+            "Process and responsibility",
+            "Who owns the asset or operates the process, its scope, participants and relevant dates."
+          ],
+          [
+            "Proposal and discussion",
+            "A proposal, expected benefits, costs/resources, objections and amendments."
+          ],
+          [
+            "Decision and response",
+            "Who decided, what was decided, reasons, reference and a review or correction route."
+          ],
+          [
+            "Delivery and outcome",
+            "What was done and what changed against the original situation, including burden or harm."
+          ]
+        ],
+        "sourcePage": 19
+      },
+      {
+        "type": "h",
+        "text": "Follow the public process",
+        "sourcePage": 19,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "The record would show whether an issue is under discussion, submitted to consultation, awaiting a response or decided. Submitted requests would retain the receiving organisation's acknowledgement, reference and next review date.",
+        "sourcePage": 19
+      },
+      {
+        "type": "h",
+        "text": "Resident and visitor participation",
+        "sourcePage": 19,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Residents could follow continuing local proposals; visitors could contribute observations and join community activities. Formal processes would display their eligibility rules. Topics could range from local assets and services to legal and constitutional proposals.",
+        "sourcePage": 19
+      }
+    ]
+  },
+  {
+    "id": "possibilities",
+    "title": "Learning, work and everyday life",
+    "kicker": "WIDER CONNECTIONS",
+    "description": "Explore shared capability, practical household tools and place-based science.",
+    "pdfPages": [
+      21
+    ],
+    "blocks": [
+      {
+        "type": "table",
+        "headers": [
+          "Name",
+          "The idea",
+          "A question to explore"
+        ],
+        "rows": [
+          [
+            "Ready S.E.T. Co-op",
+            "The proposed Ready Sustainable Employment and Training Cooperative: links between workplaces, learners and mentors.",
+            "What learning, support or work invitation is available?"
+          ],
+          [
+            "Try Everything Once",
+            "Supported opportunities to experience different kinds of useful work and making.",
+            "What would I like to try, with whom, and under what conditions?"
+          ],
+          [
+            "Mutual Futures",
+            "Exploration of voluntary business succession and worker, cooperative or other shared ownership.",
+            "Who owns the productive assets, carries responsibility and receives the benefit?"
+          ],
+          [
+            "Intermittent Retirement",
+            "Exploration of funded periods for family, learning, travel, recovery, care or rest.",
+            "How would time and financial support be arranged?"
+          ],
+          [
+            "Universal Intelligence",
+            "Meaningful access to useful intelligence, education and suitable computing.",
+            "What access and choice would make a practical difference here?"
+          ],
+          [
+            "GAJRA Earth",
+            "The proposed Global Association for Joyful Responsible Abundance on Earth: locally shaped cooperation around shared questions and projects.",
+            "Which values, practical work and relationships matter in this place?"
+          ]
+        ],
+        "sourcePage": 21
+      },
+      {
+        "type": "h",
+        "text": "Everyday planning and wellbeing",
+        "sourcePage": 21,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Kitchen Mate could help plan meals around available food, personal preferences and daily routines. Garden Mate could support growing and harvesting; Fermentation Mate could help preserve surplus. Together, these tools could reduce avoidable food waste, save time and support wellbeing. [4, pp. 13-14]",
+        "sourcePage": 21
+      },
+      {
+        "type": "h",
+        "text": "Personal and place-based science",
+        "sourcePage": 21,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "Sovereign Space Builder proposes models of places, resources and possible changes. The Web3 Sensorium proposes connecting observations, scientific models and debate across independently operated systems. Participants could contribute records and model results through agreed shared projects. [6-7]",
+        "sourcePage": 21
+      }
+    ]
+  },
+  {
+    "id": "proposal",
+    "title": "Preparing the proposed trial",
+    "kicker": "THE PROPOSED TRIAL",
+    "description": "The local programme, equipment, funding and responsibilities to agree before a public invitation.",
+    "pdfPages": [
+      22
+    ],
+    "blocks": [
+      {
+        "type": "p",
+        "text": "A trial on Minjerribah and across Redlands would require hosts, funding, tested equipment and agreed operating responsibilities. First Nations participation and cultural material would follow agreements with the appropriate people. [5, pp. 9-11]",
+        "sourcePage": 22
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Work to complete",
+          "Proposed outcome"
+        ],
+        "rows": [
+          [
+            "Local programme",
+            "Agree the hosts, venues, activities, staffing, contact arrangements and council or community processes involved."
+          ],
+          [
+            "Equipment and budget",
+            "Inventory reusable equipment; test computers with the intended sensors and applications; price missing components, transport, installation and support."
+          ],
+          [
+            "Station and software",
+            "Complete the flatpack design, stability and access checks; test assembly, capture, calibration, application performance and session handover."
+          ],
+          [
+            "Personal records",
+            "Demonstrate device or browser collection, permissions, export, correction, deletion and recovery, including treatment of public-station session data."
+          ],
+          [
+            "Community connections",
+            "Test conversational contribution recognition with participants and organisers, and connect civic submissions with the responsible receiving channels."
+          ],
+          [
+            "Access and assistance",
+            "Arrange suitable interfaces, language support, physical access and assisted participation for people without their own device."
+          ]
+        ],
+        "sourcePage": 22
+      },
+      {
+        "type": "h",
+        "text": "Review the results",
+        "sourcePage": 22,
+        "level": 2
+      },
+      {
+        "type": "p",
+        "text": "A review would examine completed tasks, measurement quality, application reliability, privacy, costs and support effort. Participant feedback would cover what helped, what failed and what prevented access. Civic cases would track submissions, responses, decisions and observed outcomes.",
+        "sourcePage": 22
+      }
+    ]
+  }
+]

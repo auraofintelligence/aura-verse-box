@@ -49,6 +49,7 @@ Open http://127.0.0.1:4192/. The preview server serves only public pages, assets
 | Location | Purpose |
 | --- | --- |
 | `content/pages.mjs` | Chapter text and page sequence |
+| `content/proposal-sections.json` | Retained Version 1 explanations, examples and tables, grouped for continuous web reading |
 | `content/documents.json` | Document editions, rights context and integrity |
 | `content/proposal-hyperlinks.json` | Every embedded source URI and proposal page |
 | `content/bibliography.json` | Corrected project bibliography |
@@ -58,6 +59,8 @@ Open http://127.0.0.1:4192/. The preview server serves only public pages, assets
 | `assets/style.css`, `assets/app.js` | Responsive presentation and optional search |
 
 Rebuild and check after edits. Generated root HTML is committed for GitHub Pages. Seven high-resolution WebP heroes provide the chapter imagery. Production image assets and exact generation prompts are in the repository; the images illustrate proposed settings and do not depict completed installations.
+
+The guide is written for residents and visitors with no prior knowledge of Aura. Its explanatory content follows the proposal across longer connected sections, with Aura and the associated systems introduced before use. `npm run check` also compares the rendered guide with the retained source paragraphs, callouts and table cells from proposal pages 1–22. The withdrawn flatpack-study citation stays removed; the downloadable public proposal and all recorded source-document bytes remain unchanged.
 
 The completed browser review checked all seven chapters in 320px-wide frames (305px content width after the scrollbar): every hero loaded, no horizontal overflow occurred and visible text stayed at least 18px outside image credits. Desktop review covered the full-width hero, seven-route menu, Escape dismissal, sitemap/source search and empty states, and the floating top link. All 19 source-reference URLs returned successful responses in the 20 October 2026 availability check; reachability does not validate the linked claims.
 

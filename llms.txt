@@ -9,13 +9,13 @@ Rights: https://github.com/auraofintelligence/aura-verse-box/blob/main/RIGHTS.md
 XML sitemap: https://auraofintelligence.github.io/aura-verse-box/sitemap.xml
 
 ## Public chapters
-- [Welcome](https://auraofintelligence.github.io/aura-verse-box/): Explore Verse Box: a proposed lower-cost public demonstration for personal Aura building, Community Hours and community participation on Minjerribah and across Redlands.
-- [The experience](https://auraofintelligence.github.io/aura-verse-box/experience.html): What a first Verse Box visit could involve: explore an interest, review a sourced result and continue on your own device.
-- [Your Aura](https://auraofintelligence.github.io/aura-verse-box/personal-aura.html): Aura is a proposed personally directed AI environment connecting memories, values, skills and projects, with chosen permissions and portable records.
-- [C-Hours & community](https://auraofintelligence.github.io/aura-verse-box/community.html): Understand Community Hours, voluntary contribution, P4A and locally shaped cooperation through the Verse Box public trial proposal.
-- [The proposed trial](https://auraofintelligence.github.io/aura-verse-box/trial.html): What the proposed Verse Box trial needs: hosts, reusable equipment, access, tested permissions, local agreements and an honest review of outcomes and costs.
-- [Documents & sources](https://auraofintelligence.github.io/aura-verse-box/sources.html): Download the corrected Verse Box proposal, inspect the source bibliography and links, and find project provenance, rights and Luke Nathan Hayes references.
-- [Sitemap](https://auraofintelligence.github.io/aura-verse-box/sitemap.html): Every page of the Verse Box public guide, from a first visit and personal Aura to C-Hours, the proposed trial and original documents.
+- [Start here](https://auraofintelligence.github.io/aura-verse-box/): An introduction to Verse Box and Aura of Intelligence for residents and visitors, with personal choice, learning, privacy and participation explained from the beginning.
+- [A first visit](https://auraofintelligence.github.io/aura-verse-box/experience.html): A first visit, everyday applications, optional expansion packs, recording choices, measurements and digital twins explained in the terms of the Verse Box proposal.
+- [Understanding Aura](https://auraofintelligence.github.io/aura-verse-box/personal-aura.html): Understand a personally owned Aura, individual home choices, public/private/secret information, optional biosensors and Genesis, and the development of a personal AI model.
+- [Contribution & public life](https://auraofintelligence.github.io/aura-verse-box/community.html): The proposal explains a fair go, Joyful Responsible Abundance, Community-Hours, P4A, a community example and the wider possibilities for everyday people.
+- [The proposed trial](https://auraofintelligence.github.io/aura-verse-box/trial.html): The work needed to prepare the proposed Verse Box trial: hosts, equipment, personal handover, contribution, public participation and review.
+- [Documents & sources](https://auraofintelligence.github.io/aura-verse-box/sources.html): Read the complete Verse Box proposal, download its supporting documents and follow the project, technical and policy references.
+- [Sitemap](https://auraofintelligence.github.io/aura-verse-box/sitemap.html): Follow the Verse Box guide from its introduction through a first visit, personal Aura choices, contribution, public life and the proposed trial.
 
 ## Source documents
 - [Verse Box: Trial Proposal](https://auraofintelligence.github.io/aura-verse-box/documents/Verse_Box_Trial_Proposal_Version_1_Corrected.pdf): Version 1 | 19 October 2026 | corrected public copy 20 October 2026; corrected-public-copy
