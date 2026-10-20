@@ -7,7 +7,7 @@
     "file": "documents/verse-box-supplied-reference.jpg",
     "role": "User-supplied visual reference for affordable plywood construction and plum felt materials; generated scenes are original compositions."
   },
-  "processing": "Original 1774 x 887 PNG files preserved in working archive. Public 1774 x 887 WebP derivatives converted at quality 87 without generative editing.",
+  "processing": "Original generated 1774 x 887 PNG files retained in the working image archive. Public 1774 x 887 WebP derivatives converted at quality 87 without compositing, cropping or generative editing during conversion.",
   "images": [
     {
       "page": "index",
@@ -56,27 +56,52 @@
     },
     {
       "page": "experience",
-      "src": "assets/images/hero-experience.webp",
+      "src": "assets/images/hero-experience-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated concept of the Verse Box interior with chair, screen, desk microphone and warm task lighting.",
+      "alt": "AI-generated concept of a person privately exploring Aura in the curtained Verse Box workbay, with its horn-torus spatial view on the monitor.",
       "is_ai_generated": true,
       "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: cinematic full-width website chapter hero, 2:1 landscape.\nPrimary request: original photorealistic architectural concept image inside an affordable Verse Box personal AI demo booth.\nScene: warm modest community centre, camera close enough to appreciate the booth interior. Natural blonde plywood desk, dark plum acoustic felt walls, cloth plum curtain drawn aside, comfortable ordinary desk chair, computer display showing a restrained abstract plum and teal flowing field WITHOUT text, desktop microphone, keyboard, slim warm task light. Realistic sensible construction.\nComposition: the inviting interior chair and desk sit in the RIGHT half; view at eye level across open approach space. LEFT 40% is softly shadowed deep aubergine acoustic wall and empty tabletop suitable for overlay text. Wide editorial architecture photograph, no people, no text.\nLighting: soft warm desk light, gentle daylight, tactile material detail, quiet thoughtful atmosphere.\nPalette: aubergine, muted plum, honey timber, soft warm ivory and restrained teal.\nConstraints: no signs, logo, captions, writing or watermark. No medical equipment, oxygen apparatus, clinical cues or futuristic capsule. No borders or collage. Proposed design concept, not documentary evidence of a finished installation. Generate one image only.",
-      "sha256": "8b6a6b83ef33a16ccd3d966add53995a604348e54fdde90e547d364da8a46ae9",
-      "bytes": 125102
+      "prompt": "Use case: photorealistic-natural.\nAsset type: First visit to Verse Box chapter hero.\nCreate one original photorealistic editorial website hero, wide landscape 2:1 aspect ratio, about 1800 by 900. Natural Australian light, restrained warm timber, deep muted plum accents, warm ivory, natural greens. Realistic ordinary people and affordable everyday equipment. Main visual activity in the RIGHT 60 percent; LEFT 35 percent quiet darker visual area for a white title overlay, without rendering any text. One coherent photograph, not a collage or split panel. No captions, lettering, logos, watermark or futuristic floating screens. This illustrates a proposed use, not a documented installation.\nScene: candid close three-quarter view from inside a modest, single-person plywood public Verse Box workbay. One ordinary adult Australian woman in casual clothes sits at the workstation, seen in profile from slightly behind, exploring the Aura display. Show the person's face and hands naturally, calm curiosity rather than promotional posing. Screen is clearly visible at right. A slim depth camera above the screen, a small desk microphone and simple task lamp convey a practical assisted introduction. The surrounding plywood side and rear walls enclose the personal space; the plum entrance curtain is mostly drawn behind her, giving privacy. Camera framing is intimate with the person and workstation, not another exterior architectural booth product shot. No host or crowd looking over her shoulder. Left area is a softly shadowed close curtain for title readability.\nThe reference image is ONLY a reference for the rainbow Aura geometry on its monitor, not for its room or furniture. Wherever an Aura display is visible, faithfully reproduce that reference: SEVEN nested ROYGBIV fine quadrilateral wireframe horn tori, red innermost through violet outermost, equal major/minor radii R=r, all sharing one central connected zero point. Broad horizontal 2:1 form, upper and lower internal curves touch at the common central pinch; no open donut hole, no detached rings, no decorative waves. Large enough to read as the same graphic as the reference, on black, without any writing.\nInput reference role: exact Aura screen geometry only; create a genuinely different new photographic composition.",
+      "sha256": "4f594a8b49b131e91c7cce0210bf7a52f84191626151bc0bf76c3e385c35e89f",
+      "bytes": 162012,
+      "revisions": [
+        {
+          "page": "experience",
+          "src": "assets/images/hero-experience.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated concept of the Verse Box interior with chair, screen, desk microphone and warm task lighting.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: cinematic full-width website chapter hero, 2:1 landscape.\nPrimary request: original photorealistic architectural concept image inside an affordable Verse Box personal AI demo booth.\nScene: warm modest community centre, camera close enough to appreciate the booth interior. Natural blonde plywood desk, dark plum acoustic felt walls, cloth plum curtain drawn aside, comfortable ordinary desk chair, computer display showing a restrained abstract plum and teal flowing field WITHOUT text, desktop microphone, keyboard, slim warm task light. Realistic sensible construction.\nComposition: the inviting interior chair and desk sit in the RIGHT half; view at eye level across open approach space. LEFT 40% is softly shadowed deep aubergine acoustic wall and empty tabletop suitable for overlay text. Wide editorial architecture photograph, no people, no text.\nLighting: soft warm desk light, gentle daylight, tactile material detail, quiet thoughtful atmosphere.\nPalette: aubergine, muted plum, honey timber, soft warm ivory and restrained teal.\nConstraints: no signs, logo, captions, writing or watermark. No medical equipment, oxygen apparatus, clinical cues or futuristic capsule. No borders or collage. Proposed design concept, not documentary evidence of a finished installation. Generate one image only.",
+          "sha256": "8b6a6b83ef33a16ccd3d966add53995a604348e54fdde90e547d364da8a46ae9",
+          "bytes": 125102,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "Show the personal first-visit experience rather than another empty booth exterior."
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Show the personal first-visit experience rather than another empty booth exterior.",
+      "references": [
+        {
+          "path": "assets/images/hero-personal-aura-v2.webp",
+          "role": "Reference for the horn-torus spatial view on this introductory display only."
+        }
+      ]
     },
     {
       "page": "personal-aura",
-      "src": "assets/images/hero-personal-aura-v2.webp",
+      "src": "assets/images/hero-personal-aura-v3.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated personal Aura workspace with seven rainbow nested horn-torus shells meeting at one central point on the monitor.",
+      "alt": "AI-generated concept of everyday Aura assistance at home: a person preparing vegetables beside a tablet with meal suggestions, ingredients to use first and a shopping list.",
       "is_ai_generated": true,
-      "purpose": "Proposed design concept",
-      "prompt": "Use case: precise-object-edit.\nAsset type: full-width website chapter hero, 2:1 landscape.\nInput images: Image 1 is the edit target, the plum and timber desk scene with an incorrect open-hole torus on its monitor. Image 2 is the user's original uploaded Verse Box reference; the monitor in this image shows the correct rainbow nested horn-torus design. Image 3 is the user's original 2018 design collage; use the nested ROYGBIV wireframe shells in its upper-right and central-right geometric panels. Image 4 is the user's original Blender side view showing the single horn torus's exact central pinch.\nPrimary request: Change ONLY the contents of the computer monitor in Image 1. Replace the existing decorative hollow torus graphic with a faithful rendering of the user's original nested horn-torus Aura design, following the actual geometry and appearance on the monitor in Image 2 and the original geometry in Images 3–4.\nGeometry requirements: precisely SEVEN concentric nested horn tori, one red innermost, then orange, yellow, green, blue, indigo, violet outermost. Each horn torus has equal major and minor radii R=r and scales around exactly the SAME central zero point. In a front/side view, they are broad roughly 2:1 horizontal wireframe forms, their inner upper and lower curves pinching together at the central point. Show a fine regular quadrilateral wireframe/translucent mesh so all seven nested colored layers and their common central pinch are legible. The common zero point must be visibly connected: there must be NO open circular hole or oval void. Use the user's source geometry, not a decorative orbital knot. A very slight elevated perspective is acceptable if the central pinch and nested shells stay obvious.\nMonitor composition: center the seven-shell graphic on the monitor's dark almost-black background, fully within the display area, vivid fine rainbow lines, red center and violet outside. Do not include text, numerical labels, axes, screenshots of the collage, editor UI, surrounding geosphere, stock screen examples, or human figure. It must read as a single faithful nested horn-torus application visual.\nInvariants: retain the entire original Image 1 composition, camera view, monitor bezel and position, microphone, keyboard, chair, blank notebook, plant, task lamp, plywood desk, plum felt walls, warm lighting and dark left-side negative space. Preserve image aspect ratio and realistic materials. The workstation and scene should be unchanged; only replace the image shown on the display.\nAvoid: ordinary ring torus, donut hole, hollow central oval, twisted ribbons, interlocked hoops, spirograph, single purple or teal ring, concentric circles, sci-fi decorative swirl, text or watermark.",
-      "sha256": "69474642724fdb19924c23f206abfe6ef03de1debfec7afd61b22cdcbf91e324",
-      "bytes": 237280,
+      "purpose": "Proposed everyday use concept",
+      "prompt": "Use case: precise-object-edit.\nAsset type: Understanding Aura chapter hero showing practical everyday help at home.\nEdit target: the supplied kitchen photograph with a man preparing vegetables and using a tablet. Change ONLY the tablet's display contents. Keep the person, hands, face, kitchen, ingredients, tablet body, smartwatch, phone, garden, camera framing, lighting, colours and every other part of the scene unchanged.\nReplace the rainbow geometry completely with a realistic, readable meal-planning app on a soft ivory background, following the tablet's perspective and screen edges. A simple useful interface, title \"Tonight's dinner\". Show a small appetising photograph of a vegetable stir-fry and the clear recipe title \"Vegetable stir-fry\". Below show two short, clean lists: \"Use first\" with \"Carrots\", \"Zucchini\", \"Herbs\"; \"Shopping\" with \"Rice\", \"Tofu\". Use ordinary clean dark readable text, a restrained plum header and subtle sage accents. Keep the screen legible and credible as a household recipe and food-use planner rather than a marketing page. Show no biometric information or personal identity.\nRemove every wireframe, torus, rainbow geometric shape and abstract visualisation from the tablet screen. No hologram, no abstract wave wallpaper, no decorative symbol substituting for functional app content. No Verse Box.\nPreserve the original wide 2:1 composition and the quiet dark plum left-side area for the website heading. No new caption or text outside the tablet. Generate one corrected image.",
+      "sha256": "e7faeca1b1e7015d013fb9196dd9589f5f1c4034ee2807e6e0f401f499a5d1fb",
+      "bytes": 162216,
       "revisions": [
         {
           "page": "personal-aura",
@@ -92,54 +117,92 @@
           "status": "superseded",
           "superseded_date": "2026-10-20",
           "reason": "User requested faithful nested horn-torus geometry"
-        }
-      ],
-      "references": [
-        {
-          "path": "assets/images/hero-personal-aura.webp",
-          "role": "Superseded hero; only monitor image corrected"
         },
         {
-          "path": "documents/verse-box-supplied-reference.jpg",
-          "role": "Primary visual reference: rainbow nested horn tori on the uploaded booth's monitor"
-        },
-        {
-          "path": "documents/Aura_Operating_Zeitgeist_Whitepaper_2018.docx",
-          "member": "word/media/image2.jpeg",
-          "role": "Original nested-shell design collage"
-        },
-        {
-          "path": "documents/Blend_Aura_to_Unity.pdf",
-          "page": 11,
-          "role": "Original Blender horn-torus geometry"
+          "page": "personal-aura",
+          "src": "assets/images/hero-personal-aura-v2.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated personal Aura workspace with seven rainbow nested horn-torus shells meeting at one central point on the monitor.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: precise-object-edit.\nAsset type: full-width website chapter hero, 2:1 landscape.\nInput images: Image 1 is the edit target, the plum and timber desk scene with an incorrect open-hole torus on its monitor. Image 2 is the user's original uploaded Verse Box reference; the monitor in this image shows the correct rainbow nested horn-torus design. Image 3 is the user's original 2018 design collage; use the nested ROYGBIV wireframe shells in its upper-right and central-right geometric panels. Image 4 is the user's original Blender side view showing the single horn torus's exact central pinch.\nPrimary request: Change ONLY the contents of the computer monitor in Image 1. Replace the existing decorative hollow torus graphic with a faithful rendering of the user's original nested horn-torus Aura design, following the actual geometry and appearance on the monitor in Image 2 and the original geometry in Images 3–4.\nGeometry requirements: precisely SEVEN concentric nested horn tori, one red innermost, then orange, yellow, green, blue, indigo, violet outermost. Each horn torus has equal major and minor radii R=r and scales around exactly the SAME central zero point. In a front/side view, they are broad roughly 2:1 horizontal wireframe forms, their inner upper and lower curves pinching together at the central point. Show a fine regular quadrilateral wireframe/translucent mesh so all seven nested colored layers and their common central pinch are legible. The common zero point must be visibly connected: there must be NO open circular hole or oval void. Use the user's source geometry, not a decorative orbital knot. A very slight elevated perspective is acceptable if the central pinch and nested shells stay obvious.\nMonitor composition: center the seven-shell graphic on the monitor's dark almost-black background, fully within the display area, vivid fine rainbow lines, red center and violet outside. Do not include text, numerical labels, axes, screenshots of the collage, editor UI, surrounding geosphere, stock screen examples, or human figure. It must read as a single faithful nested horn-torus application visual.\nInvariants: retain the entire original Image 1 composition, camera view, monitor bezel and position, microphone, keyboard, chair, blank notebook, plant, task lamp, plywood desk, plum felt walls, warm lighting and dark left-side negative space. Preserve image aspect ratio and realistic materials. The workstation and scene should be unchanged; only replace the image shown on the display.\nAvoid: ordinary ring torus, donut hole, hollow central oval, twisted ribbons, interlocked hoops, spirograph, single purple or teal ring, concentric circles, sci-fi decorative swirl, text or watermark.",
+          "sha256": "69474642724fdb19924c23f206abfe6ef03de1debfec7afd61b22cdcbf91e324",
+          "bytes": 237280,
+          "references": [
+            {
+              "path": "assets/images/hero-personal-aura.webp",
+              "role": "Superseded hero; only monitor image corrected"
+            },
+            {
+              "path": "documents/verse-box-supplied-reference.jpg",
+              "role": "Primary visual reference: rainbow nested horn tori on the uploaded booth's monitor"
+            },
+            {
+              "path": "documents/Aura_Operating_Zeitgeist_Whitepaper_2018.docx",
+              "member": "word/media/image2.jpeg",
+              "role": "Original nested-shell design collage"
+            },
+            {
+              "path": "documents/Blend_Aura_to_Unity.pdf",
+              "page": 11,
+              "role": "Original Blender horn-torus geometry"
+            }
+          ],
+          "updated": "2026-10-20",
+          "revision_note": "Monitor content corrected using the user-supplied booth screen and original Aura Matrix geometry.",
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "Show useful everyday Aura support through a meal-planning app at home; the horn-torus view is one interface among several."
         }
       ],
       "updated": "2026-10-20",
-      "revision_note": "Monitor content corrected using the user-supplied booth screen and original Aura Matrix geometry."
+      "revision_note": "Show useful everyday Aura support through a meal-planning app at home; the horn-torus view is one interface among several.",
+      "scene_generation_prompt": "Use case: photorealistic-natural.\nAsset type: Understanding Aura and personal home choices chapter hero.\nCreate one original photorealistic editorial website hero, wide landscape 2:1 aspect ratio, about 1800 by 900. Natural Australian light, restrained warm timber, deep muted plum accents, warm ivory, natural greens. Realistic ordinary people and affordable everyday equipment. Main visual activity in the RIGHT 60 percent; LEFT 35 percent quiet darker visual area for a white title overlay, without rendering any text. One coherent photograph, not a collage or split panel. No captions, lettering, logos, watermark or futuristic floating screens. This illustrates a proposed use, not a documented installation.\nScene: a relaxed everyday home kitchen opening to a small green garden. One adult man in casual clothes at the RIGHT is planning a meal using his own modest tablet on the kitchen counter, with a notebook, a few vegetables, a bowl of fruit and fresh herbs nearby. He wears a simple removable smartwatch; a smartphone rests nearby. The tablet faces diagonally toward the viewer, large enough for its display to be clearly visible. Show realistic human hands, useful cooking preparation and natural household life, not someone seated at an office computer. A warm muted plum wall and quiet uncluttered counter occupy the left. The person, home, ingredients and plants are the main subject, technology supports the activity. No Verse Box, no booth, no felt acoustic walls, no desk microphone or public demo furniture. No luxury fitted kitchen or glass lab, no medical devices.\nThe reference image is ONLY a reference for the rainbow Aura geometry on its monitor, not for its room or furniture. Wherever an Aura display is visible, faithfully reproduce that reference: SEVEN nested ROYGBIV fine quadrilateral wireframe horn tori, red innermost through violet outermost, equal major/minor radii R=r, all sharing one central connected zero point. Broad horizontal 2:1 form, upper and lower internal curves touch at the common central pinch; no open donut hole, no detached rings, no decorative waves. Large enough to read as the same graphic as the reference, on black, without any writing.\nInput reference role: Aura geometry only. The new setting must be domestic, lived-in and visually different from the reference booth. Include no additional screens requiring different Aura artwork.",
+      "generation_note": "Built-in image generation created the domestic scene; a targeted built-in edit replaced the tablet display with practical meal-planning content. The intermediate image is not a selected website asset."
     },
     {
       "page": "community",
-      "src": "assets/images/hero-community.webp",
+      "src": "assets/images/hero-community-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated concept of a modest plywood Verse Box beside bright community hall windows looking onto gum trees.",
+      "alt": "AI-generated concept of neighbours sharing garden produce and discussing a local garden-path plan together.",
       "is_ai_generated": true,
-      "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: original full-width architectural website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: create a fresh photorealistic concept visualization for Verse Box as an affordable, modest plywood booth for personal AI conversation, community participation and recording in an Australian community centre. Related in visual design to a timber-and-plum demo booth, not an expensive capsule.\nScene/backdrop: generously spaced Australian community hall beside broad glazed doors; daylight, eucalyptus gum trees visible outdoors, modest communal table far in background.\nSubject: simple single-person OPEN-FRONT booth on RIGHT side of the panorama with natural plywood frame, muted plum acoustic felt walls, a plum fabric privacy curtain tied open, a compact timber desk, ordinary task chair, screen with subtle abstract teal/plum light waves and NO text, a microphone, warm task lamp. The booth front should have a wide unobstructed level entrance with no raised sill and a generous approach path. Ordinary safe furniture and realistic joinery.\nComposition/framing: eye-level very wide view showing the full booth and welcoming daylight context to its right. LEFT 40% is uncluttered deep plum wall in soft shadow with some empty floor for white headline overlay. Booth occupies rightmost 50%. Spacious but intimate, no people.\nLighting/mood: warm Australian late morning light and soft shadow, calm and welcoming editorial architecture photography.\nColor palette: plum, aubergine, honey timber, warm ivory, pale sage outdoors.\nMaterials/textures: realistic plywood grain, tactile felt, cloth curtain, polished old timber floor.\nText: none.\nConstraints: no logos, words, signs, captions or watermarks. No medical equipment, no oxygen tubes, no HBOT chamber. No futuristic luxury capsule. Must read as a design concept, not proof of an existing installation. No collage, black bars or borders. Generate one image only.",
-      "sha256": "a29c8a21a115562f990ae3a497055c6a947abc510c38bd86b34c1693a73836b7",
-      "bytes": 194784
+      "purpose": "Proposed everyday use concept",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: Contribution and public participation chapter hero.\nCreate one original photorealistic editorial website hero, wide landscape 2:1 aspect ratio, about 1800 by 900. Natural Australian light, restrained warm timber, deep muted plum accents, warm ivory, natural greens. Realistic ordinary people and affordable everyday equipment. Main visual activity in the RIGHT 60 percent; LEFT 35 percent quiet darker visual area for a white title overlay, without rendering any text. One coherent photograph, not a collage or split panel. No captions, lettering, logos, watermark or futuristic floating screens. This illustrates a proposed use, not a documented installation.\nScene: an inviting Australian community garden and shared produce table beside a simple open veranda. On the RIGHT, a small diverse group of five ordinary adults of varied ages are working together naturally: two sort baskets of surplus vegetables and herbs, while three discuss a hand-drawn, unlettered plan for a better shared garden path laid on one small table, one person pointing and the others listening. The situation blends everyday contribution, reducing food waste and making a local decision together. Neighbourly cooperation, cheerful but candid and thoughtful, no staged smiling line-up or exaggerated poses. Simple practical clothes, raised garden beds and eucalyptus behind; muted plum painted veranda posts and warm afternoon light. LEFT is shaded foliage and veranda wall, quiet enough for title text. Do not place the activity against a huge empty hall wall.\nNo Verse Box, no computer workstation, no visible device screens, no monitors, no invented UI, no ballot boxes, no political banners or party logos, no paperwork bureaucracy, no medical setting. This is a concept scene, not proof of an existing trial.",
+      "sha256": "aa84a2aa2460d9d16ab6c2c4b688904faf5f5611bd7e84009ec676c563a6bbd3",
+      "bytes": 279728,
+      "revisions": [
+        {
+          "page": "community",
+          "src": "assets/images/hero-community.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated concept of a modest plywood Verse Box beside bright community hall windows looking onto gum trees.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: original full-width architectural website hero banner, cinematic landscape 2:1 aspect ratio.\nPrimary request: create a fresh photorealistic concept visualization for Verse Box as an affordable, modest plywood booth for personal AI conversation, community participation and recording in an Australian community centre. Related in visual design to a timber-and-plum demo booth, not an expensive capsule.\nScene/backdrop: generously spaced Australian community hall beside broad glazed doors; daylight, eucalyptus gum trees visible outdoors, modest communal table far in background.\nSubject: simple single-person OPEN-FRONT booth on RIGHT side of the panorama with natural plywood frame, muted plum acoustic felt walls, a plum fabric privacy curtain tied open, a compact timber desk, ordinary task chair, screen with subtle abstract teal/plum light waves and NO text, a microphone, warm task lamp. The booth front should have a wide unobstructed level entrance with no raised sill and a generous approach path. Ordinary safe furniture and realistic joinery.\nComposition/framing: eye-level very wide view showing the full booth and welcoming daylight context to its right. LEFT 40% is uncluttered deep plum wall in soft shadow with some empty floor for white headline overlay. Booth occupies rightmost 50%. Spacious but intimate, no people.\nLighting/mood: warm Australian late morning light and soft shadow, calm and welcoming editorial architecture photography.\nColor palette: plum, aubergine, honey timber, warm ivory, pale sage outdoors.\nMaterials/textures: realistic plywood grain, tactile felt, cloth curtain, polished old timber floor.\nText: none.\nConstraints: no logos, words, signs, captions or watermarks. No medical equipment, no oxygen tubes, no HBOT chamber. No futuristic luxury capsule. Must read as a design concept, not proof of an existing installation. No collage, black bars or borders. Generate one image only.",
+          "sha256": "a29c8a21a115562f990ae3a497055c6a947abc510c38bd86b34c1693a73836b7",
+          "bytes": 194784,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "Represent contribution and shared public decisions through a community garden scene."
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Represent contribution and shared public decisions through a community garden scene."
     },
     {
       "page": "trial",
-      "src": "assets/images/hero-trial-v2.webp",
+      "src": "assets/images/hero-trial-v3.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated concept of a deep plywood Verse Box in a community workshop, with a rear desk, task chair, plum acoustic panels, tied-open curtain and clear entrance floor space.",
+      "alt": "AI-generated concept of flatpack panels, privacy curtains and reused computer equipment packed on a trolley and in transport cases for a portable public introduction.",
       "is_ai_generated": true,
       "purpose": "Proposed design concept",
-      "prompt": "Use case: precise-object-edit.\nAsset type: full-width Verse Box trial chapter website hero, cinematic 2:1 landscape.\nPrimary request: replace the shallow cabinet-like booth in the first reference with a genuinely DEEP, HUMAN-SCALE walk-in single-person plywood workstation booth. Preserve the visual family's warm timber, plum felt, community workshop, left dark negative space and right booth composition. The new booth MUST be a deep room-shaped enclosure, never a wardrobe, kiosk shelf or display cabinet.\nInput images: Image 1 is the current trial hero to redesign; Image 2 is the supplied Verse Box construction reference showing the needed human-scale desk, chair and booth depth. Use Image 2 only for spatial/construction inspiration; do not copy its signage or display.\nSpatial design: realistic approximate outer booth dimensions 1.8 metres wide, 2.0 metres FRONT-TO-BACK DEEP and 2.3 metres tall. Its front-to-back depth must be visibly comparable to or greater than its width. Full-depth 65-centimetre desk against the rear wall; normal monitor with low-contrast plain abstract app-window blocks and absolutely NO writing, no torus; keyboard; desktop microphone; warm task lamp. A normal comfortable office task chair on casters in the middle, positioned facing the rear monitor, with realistic seated legroom below the desk and a clearly visible generous floor space between chair and entrance where a person could step in, pull the chair out, turn and move. No stool, no shallow shelf. A tied-open plum curtain hangs at the entrance edge, revealing the full depth.\nCamera/framing: three-quarter FRONT-RIGHT architectural view at eye level. The open front and the full LONG exterior right sidewall are both clearly visible. The right sidewall recedes strongly from the front edge toward the rear corner, making the substantial front-to-back depth unmistakable. Interior ceiling and floor perspective lines also lead a long distance back to the rear desk. Entire booth visible with full height and full footprint. Booth occupies the RIGHT 55% of image. LEFT 40% remains uncluttered shadowed deep aubergine/plum workshop wall and empty floor for white headline overlay.\nSetting: warm Australian community workshop, realistic old timber floor, simple affordable plywood construction with honest joinery, plum felt acoustic panels inside, a small tidy workbench with a folded plum felt swatch, a few plywood offcuts and basic drill at far right. Calm soft natural daylight with warm task light. Modest attainable practical furniture, not a futuristic or luxury pod.\nText: none.\nConstraints: no people, no printed text, letters, labels, signage, logos, watermarks, measurements or captions. No torus or ring graphic on screen. No medical or oxygen equipment. No scientific or medical claims. Proposed design concept visualisation only. No borders, black bars or collage. Generate one image only.",
-      "sha256": "a5dd8449caafcd5addba64a4e3e17a5dd2e74191f162bed702a56d1d817e8534",
-      "bytes": 223320,
+      "prompt": "Use case: product-mockup.\nAsset type: Preparing the proposed portable trial chapter hero.\nCreate one original photorealistic editorial website hero, wide landscape 2:1 aspect ratio, about 1800 by 900. Natural Australian light, restrained warm timber, deep muted plum accents, warm ivory, natural greens. Realistic ordinary people and affordable everyday equipment. Main visual activity in the RIGHT 60 percent; LEFT 35 percent quiet darker visual area for a white title overlay, without rendering any text. One coherent photograph, not a collage or split panel. No captions, lettering, logos, watermark or futuristic floating screens. This illustrates a proposed use, not a documented installation.\nScene: a practical low-cost expo kit being packed for transport on the RIGHT in a modest community workshop with a wide open door. A wheeled trolley carries flat modular plywood panels and bolted timber frame rails, with realistic modest bracing parts and reusable fasteners organised in a small open case. A folded deep plum privacy curtain and felt panels lie nearby. A second-hand mini-PC, compact camera, small task lamp and an ordinary monitor with a padded protective screen cover fit in a sturdy reused transport crate. One person's naturally posed hands check a reusable clamp, with most of their body outside the right edge. Show the idea of reuse, careful practical preparation and easy moving rather than a completed booth. Different viewpoint from the other images, medium close workshop still life with tool and material detail. LEFT is a shadowed empty workbench and workshop background suitable for the title.\nNo assembled Verse Box, no enclosed booth, no visible display contents, no luxury capsule, no clinical equipment, no pseudo-engineering annotations or fabricated dimension labels. No cut-list diagram. Realistic physically plausible parts; no construction certification implied.",
+      "sha256": "76148596108442a5e310c35b85c1fc895ecead23921b289e5971aa3c856f49ef",
+      "bytes": 179764,
       "revisions": [
         {
           "page": "trial",
@@ -155,20 +218,37 @@
           "status": "superseded",
           "superseded_date": "2026-10-20",
           "reason": "User requested substantially deeper booth"
-        }
-      ],
-      "references": [
-        {
-          "path": "G:/GithubLocal-PC/aura-verse-box/assets/images/hero-trial.webp",
-          "role": "Prior trial hero to redesign with substantially deeper booth"
         },
         {
-          "path": "C:/Users/Aura2020/AppData/Local/Temp/codex-clipboard-8c5d878a-45f5-409c-893b-fd642a7e9d61.jpg",
-          "role": "User-supplied physical depth and desk/chair construction reference"
+          "page": "trial",
+          "src": "assets/images/hero-trial-v2.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated concept of a deep plywood Verse Box in a community workshop, with a rear desk, task chair, plum acoustic panels, tied-open curtain and clear entrance floor space.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: precise-object-edit.\nAsset type: full-width Verse Box trial chapter website hero, cinematic 2:1 landscape.\nPrimary request: replace the shallow cabinet-like booth in the first reference with a genuinely DEEP, HUMAN-SCALE walk-in single-person plywood workstation booth. Preserve the visual family's warm timber, plum felt, community workshop, left dark negative space and right booth composition. The new booth MUST be a deep room-shaped enclosure, never a wardrobe, kiosk shelf or display cabinet.\nInput images: Image 1 is the current trial hero to redesign; Image 2 is the supplied Verse Box construction reference showing the needed human-scale desk, chair and booth depth. Use Image 2 only for spatial/construction inspiration; do not copy its signage or display.\nSpatial design: realistic approximate outer booth dimensions 1.8 metres wide, 2.0 metres FRONT-TO-BACK DEEP and 2.3 metres tall. Its front-to-back depth must be visibly comparable to or greater than its width. Full-depth 65-centimetre desk against the rear wall; normal monitor with low-contrast plain abstract app-window blocks and absolutely NO writing, no torus; keyboard; desktop microphone; warm task lamp. A normal comfortable office task chair on casters in the middle, positioned facing the rear monitor, with realistic seated legroom below the desk and a clearly visible generous floor space between chair and entrance where a person could step in, pull the chair out, turn and move. No stool, no shallow shelf. A tied-open plum curtain hangs at the entrance edge, revealing the full depth.\nCamera/framing: three-quarter FRONT-RIGHT architectural view at eye level. The open front and the full LONG exterior right sidewall are both clearly visible. The right sidewall recedes strongly from the front edge toward the rear corner, making the substantial front-to-back depth unmistakable. Interior ceiling and floor perspective lines also lead a long distance back to the rear desk. Entire booth visible with full height and full footprint. Booth occupies the RIGHT 55% of image. LEFT 40% remains uncluttered shadowed deep aubergine/plum workshop wall and empty floor for white headline overlay.\nSetting: warm Australian community workshop, realistic old timber floor, simple affordable plywood construction with honest joinery, plum felt acoustic panels inside, a small tidy workbench with a folded plum felt swatch, a few plywood offcuts and basic drill at far right. Calm soft natural daylight with warm task light. Modest attainable practical furniture, not a futuristic or luxury pod.\nText: none.\nConstraints: no people, no printed text, letters, labels, signage, logos, watermarks, measurements or captions. No torus or ring graphic on screen. No medical or oxygen equipment. No scientific or medical claims. Proposed design concept visualisation only. No borders, black bars or collage. Generate one image only.",
+          "sha256": "a5dd8449caafcd5addba64a4e3e17a5dd2e74191f162bed702a56d1d817e8534",
+          "bytes": 223320,
+          "references": [
+            {
+              "path": "G:/GithubLocal-PC/aura-verse-box/assets/images/hero-trial.webp",
+              "role": "Prior trial hero to redesign with substantially deeper booth"
+            },
+            {
+              "path": "C:/Users/Aura2020/AppData/Local/Temp/codex-clipboard-8c5d878a-45f5-409c-893b-fd642a7e9d61.jpg",
+              "role": "User-supplied physical depth and desk/chair construction reference"
+            }
+          ],
+          "updated": "2026-10-20",
+          "revision_note": "Booth redesigned with visible front-to-back depth, a rear workstation, task chair and entrance floor space.",
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "Represent reuse, portable equipment and practical preparation through the packed kit."
         }
       ],
       "updated": "2026-10-20",
-      "revision_note": "Booth redesigned with visible front-to-back depth, a rear workstation, task chair and entrance floor space."
+      "revision_note": "Represent reuse, portable equipment and practical preparation through the packed kit."
     },
     {
       "page": "sources",
@@ -184,15 +264,35 @@
     },
     {
       "page": "sitemap",
-      "src": "assets/images/hero-sitemap.webp",
+      "src": "assets/images/hero-sitemap-v2.webp",
       "width": 1774,
       "height": 887,
-      "alt": "AI-generated wide concept of an open-front Verse Box in a spacious community hall with gum trees outside.",
+      "alt": "AI-generated concept of a traveller with a phone and smartwatch choosing a coastal walking route beside eucalyptus woodland and a bay.",
       "is_ai_generated": true,
-      "purpose": "Proposed design concept",
-      "prompt": "Use case: product-mockup.\nAsset type: original full-width website sitemap chapter hero, cinematic landscape 2:1.\nPrimary request: welcoming wide architectural concept image of an affordable Verse Box demo booth in a spacious Australian community hall.\nScene: warm old timber floor, tall windows with leafy gum trees outside, calm muted ivory hall with deep plum feature wall. RIGHT side is a modest natural blonde plywood open-front single-person booth with plum felt panels and a plum curtain tied open; comfortable task chair, compact computer monitor with subtle abstract plum/teal wave image and no text, small desk microphone, warm task lamp. Broad uncluttered approach and level floor. A simple community table beyond the booth to the far right, no people.\nComposition: wider and more spacious than a product closeup; eye-level editorial architecture panorama, booth occupying rightmost 40%, entire booth and generous surrounding floor visible. LEFT 45% is uncluttered deep aubergine wall softly shadowed, useful for white web headline. Strong elegant horizontal composition, photograph-like.\nLighting: soft warm daylight from high windows, natural warm gold tones, calm community atmosphere.\nPalette: deep plum, muted mauve, honey timber, warm ivory, sage trees.\nConstraints: no text, labels, logos, signs, captions or watermark, no medical or oxygen equipment, no clinical setting, no expensive futuristic capsule, no borders or collage. Proposed concept visualization; not evidence of an operating public booth. Generate one image only.",
-      "sha256": "6915b1bba520d24800628178531db91952d247967b5cfdc512143e6ff40939ab",
-      "bytes": 176686
+      "purpose": "Proposed everyday use concept",
+      "prompt": "Use case: photorealistic-natural.\nAsset type: Explore the guide sitemap chapter hero, representing choice and everyday travel with personal Aura.\nCreate one original photorealistic editorial website hero, wide landscape 2:1 aspect ratio, about 1800 by 900. Natural Australian light, restrained warm timber, deep muted plum accents, warm ivory, natural greens. Realistic ordinary people and affordable everyday equipment. Main visual activity in the RIGHT 60 percent; LEFT 35 percent quiet darker visual area for a white title overlay, without rendering any text. One coherent photograph, not a collage or split panel. No captions, lettering, logos, watermark or futuristic floating screens. This illustrates a proposed use, not a documented installation.\nScene: a traveller in casual outdoor clothing with a small daypack pauses on the RIGHT at a coastal walking-track junction on an Australian island, beside eucalyptus and a calm bay. Three-quarter rear view, medium-wide, looking toward the coastline while holding a smartphone loosely in one hand. The back of the phone faces the viewer, so no screen is visible. A subtle ordinary smartwatch is worn. The track gently offers a choice between the shoreline and a wooded path toward a small distant village. Emphasis on curiosity, thinking for oneself and choosing a journey, not on a generic technology setup. Golden morning light on water, natural sandy path, restrained plum backpack detail, muted warm colours. LEFT is softly shaded eucalyptus woodland with calm lower contrast for the heading. Eye-level documentary-style composition, no aerial map, no schematic geography, no fantastical buildings.\nNo Verse Box, no booths, no computer desk, no papers, no visible device screens, no signage, no text or interface, no holograms. Do not make it look like a tourism advertisement with a staged influencer pose.",
+      "sha256": "f390647d6a2b6b964062214567ee85ffc409dc499777e3216036d4cb80f1df83",
+      "bytes": 438214,
+      "revisions": [
+        {
+          "page": "sitemap",
+          "src": "assets/images/hero-sitemap.webp",
+          "width": 1774,
+          "height": 887,
+          "alt": "AI-generated wide concept of an open-front Verse Box in a spacious community hall with gum trees outside.",
+          "is_ai_generated": true,
+          "purpose": "Proposed design concept",
+          "prompt": "Use case: product-mockup.\nAsset type: original full-width website sitemap chapter hero, cinematic landscape 2:1.\nPrimary request: welcoming wide architectural concept image of an affordable Verse Box demo booth in a spacious Australian community hall.\nScene: warm old timber floor, tall windows with leafy gum trees outside, calm muted ivory hall with deep plum feature wall. RIGHT side is a modest natural blonde plywood open-front single-person booth with plum felt panels and a plum curtain tied open; comfortable task chair, compact computer monitor with subtle abstract plum/teal wave image and no text, small desk microphone, warm task lamp. Broad uncluttered approach and level floor. A simple community table beyond the booth to the far right, no people.\nComposition: wider and more spacious than a product closeup; eye-level editorial architecture panorama, booth occupying rightmost 40%, entire booth and generous surrounding floor visible. LEFT 45% is uncluttered deep aubergine wall softly shadowed, useful for white web headline. Strong elegant horizontal composition, photograph-like.\nLighting: soft warm daylight from high windows, natural warm gold tones, calm community atmosphere.\nPalette: deep plum, muted mauve, honey timber, warm ivory, sage trees.\nConstraints: no text, labels, logos, signs, captions or watermark, no medical or oxygen equipment, no clinical setting, no expensive futuristic capsule, no borders or collage. Proposed concept visualization; not evidence of an operating public booth. Generate one image only.",
+          "sha256": "6915b1bba520d24800628178531db91952d247967b5cfdc512143e6ff40939ab",
+          "bytes": 176686,
+          "status": "superseded",
+          "superseded_date": "2026-10-20",
+          "reason": "Represent exploration, travel and personal choices in an everyday coastal setting."
+        }
+      ],
+      "updated": "2026-10-20",
+      "revision_note": "Represent exploration, travel and personal choices in an everyday coastal setting."
     }
-  ]
+  ],
+  "art_direction": "The homepage and first visit introduce Verse Box. Other chapters use distinct everyday, community, preparation and exploration scenes. Aura offers voice, text, app and spatial views; depict the horn-torus geometry only when that spatial interface is relevant."
 }
